@@ -1,0 +1,1001 @@
+review_id,brand,industry,review_text,rating,review_date,source,price_level,feature_category,sentiment_label,sentiment_score,aspect,region,market_share_est,competitor_type
+1,ocean bites,restaurant,staff were rude and the place was not clean.,2,10/24/2025,google,2,support,negative,-0.85,support,india - bangalore,10.29,enterprise
+2,freshmart,supermarket,long queues at checkout counters.,2,9/4/2024,appstore,1,support,negative,-0.61,price,sri lanka - colombo,18.93,sme
+3,citygrocer,supermarket,store is okay but sometimes crowded.,4,7/9/2024,yelp,2,support,neutral,0.01,delivery,india - chennai,36.11,sme
+4,freshmart,supermarket,products are available but prices are average.,4,1/14/2025,instagram,2,product,neutral,0.26,price,india - chennai,11.33,sme
+5,dailyneeds,supermarket,fresh vegetables and well organized shelves.,4,5/2/2024,facebook,1,product,positive,0.55,service,sri lanka - colombo,31.15,enterprise
+6,ocean bites,restaurant,"clean place and tasty meals, will visit again.",4,9/5/2024,yelp,3,product,positive,0.94,support,sri lanka - kandy,10.15,startup
+7,modaline,clothing,sizes were inaccurate and returns were difficult.,1,8/31/2024,instagram,3,service,negative,-0.57,service,sri lanka - kandy,34.36,startup
+8,urban threads,clothing,trendy designs and affordable prices.,5,12/21/2024,yelp,2,support,positive,0.92,service,india - bangalore,28.54,startup
+9,grand tandoori,restaurant,food arrived cold and the service was slow.,2,8/20/2024,facebook,3,support,negative,-0.62,delivery,sri lanka - kandy,28.64,enterprise
+10,brightpath college,academic,teachers explain concepts clearly and provide good support.,4,10/27/2025,google,1,product,positive,0.84,service,india - chennai,33.65,sme
+11,stylehub,clothing,designs are decent but limited options.,4,2/5/2024,google,3,service,neutral,0.16,service,sri lanka - colombo,37.57,enterprise
+12,stylehub,clothing,clothes feel comfortable and durable.,4,6/11/2025,google,3,delivery,positive,0.92,quality,sri lanka - kandy,18.02,startup
+13,spice garden,restaurant,food arrived cold and the service was slow.,2,8/25/2024,instagram,2,service,negative,-0.7,service,india - chennai,18.15,startup
+14,brightpath college,academic,course content is fine but could be updated.,3,2/26/2024,instagram,3,delivery,neutral,0.19,delivery,sri lanka - kandy,11.65,enterprise
+15,modaline,clothing,sizes were inaccurate and returns were difficult.,2,6/28/2024,yelp,1,product,negative,-0.47,service,india - chennai,8.98,sme
+16,freshmart,supermarket,wide variety of products at good prices.,5,5/29/2024,instagram,1,support,positive,0.67,support,india - chennai,21.56,enterprise
+17,citygrocer,supermarket,fresh vegetables and well organized shelves.,5,8/31/2025,facebook,2,service,positive,0.82,support,sri lanka - colombo,38.52,sme
+18,dailyneeds,supermarket,staff not responsive when asking for help.,2,1/14/2025,facebook,2,delivery,negative,-0.42,support,sri lanka - colombo,23.04,startup
+19,citygrocer,supermarket,some items were expired on the shelf.,2,1/14/2024,appstore,1,support,negative,-0.6,delivery,sri lanka - colombo,31.58,sme
+20,trendwear,clothing,clothes feel comfortable and durable.,4,2/23/2025,google,1,support,positive,0.84,experience,india - bangalore,37.36,startup
+21,spice garden,restaurant,"average taste, reasonable price.",3,8/16/2024,yelp,3,delivery,neutral,-0.04,quality,sri lanka - colombo,37.07,sme
+22,modaline,clothing,trendy designs and affordable prices.,5,11/10/2024,yelp,3,delivery,positive,0.94,price,india - bangalore,25.95,enterprise
+23,citygrocer,supermarket,quick billing and helpful staff.,4,5/25/2024,google,1,support,positive,0.5,experience,india - chennai,10.76,enterprise
+24,nextgen institute,academic,poor communication from administration.,2,10/22/2025,facebook,1,support,negative,-0.82,support,sri lanka - colombo,22.52,sme
+25,ocean bites,restaurant,service was fine but a bit slow during peak hours.,4,12/15/2024,facebook,3,support,neutral,0.04,support,india - bangalore,37.05,enterprise
+26,quickeats,food delivery,reliable service and accurate orders.,5,11/12/2025,facebook,3,product,positive,0.95,experience,sri lanka - colombo,25.7,sme
+27,fooddash,food delivery,reliable service and accurate orders.,5,3/27/2025,instagram,2,service,positive,0.98,delivery,sri lanka - colombo,27.92,startup
+28,ocean bites,restaurant,great ambience and quick service. loved the dinner experience.,4,11/17/2025,yelp,3,delivery,positive,0.84,support,sri lanka - kandy,29.82,enterprise
+29,nextgen institute,academic,classes often cancelled without notice.,2,4/30/2024,appstore,3,product,negative,-0.4,price,sri lanka - kandy,11.69,sme
+30,brightpath college,academic,teachers explain concepts clearly and provide good support.,4,2/21/2024,instagram,1,service,positive,0.58,delivery,sri lanka - colombo,33.87,sme
+31,urban curry,restaurant,"average taste, reasonable price.",3,2/28/2025,appstore,1,service,neutral,0.22,experience,sri lanka - colombo,28.69,enterprise
+32,nextgen institute,academic,facilities are average.,4,3/5/2024,google,1,delivery,neutral,0.01,support,sri lanka - kandy,29.84,enterprise
+33,fooddash,food delivery,delivery was fast and food arrived hot.,4,3/25/2024,facebook,1,product,positive,0.61,delivery,india - bangalore,32.65,startup
+34,grand tandoori,restaurant,overpriced for the portion size.,2,11/5/2024,appstore,1,delivery,negative,-0.91,service,sri lanka - kandy,5.55,sme
+35,ocean bites,restaurant,great ambience and quick service. loved the dinner experience.,5,10/27/2025,yelp,3,product,positive,0.53,delivery,sri lanka - kandy,26.73,enterprise
+36,spice garden,restaurant,food arrived cold and the service was slow.,2,1/20/2024,yelp,2,delivery,negative,-0.54,delivery,sri lanka - colombo,5.97,sme
+37,urban curry,restaurant,"average taste, reasonable price.",3,11/25/2025,yelp,1,delivery,neutral,0.27,service,sri lanka - kandy,32.35,enterprise
+38,grand tandoori,restaurant,great ambience and quick service. loved the dinner experience.,5,5/4/2024,instagram,2,service,positive,0.83,experience,india - chennai,22.82,enterprise
+39,grand tandoori,restaurant,overpriced for the portion size.,2,1/30/2025,appstore,2,support,negative,-0.44,delivery,sri lanka - kandy,15.77,sme
+40,nextgen institute,academic,teachers explain concepts clearly and provide good support.,5,5/21/2025,appstore,1,service,positive,0.61,experience,sri lanka - colombo,6.74,startup
+41,grand tandoori,restaurant,"average taste, reasonable price.",4,6/1/2024,instagram,2,delivery,neutral,0.07,experience,india - bangalore,38.59,enterprise
+42,stylehub,clothing,good quality fabric and perfect fit.,5,2/25/2024,google,2,product,positive,0.94,delivery,india - bangalore,28.74,startup
+43,greenbasket,supermarket,store is okay but sometimes crowded.,4,7/28/2024,instagram,3,delivery,neutral,0.27,experience,india - chennai,20.58,enterprise
+44,brightpath college,academic,poor communication from administration.,2,10/20/2024,google,2,service,negative,-0.51,service,india - bangalore,38.56,sme
+45,mealgo,food delivery,reliable service and accurate orders.,5,10/9/2025,yelp,2,delivery,positive,0.82,delivery,sri lanka - kandy,26.4,enterprise
+46,grand tandoori,restaurant,"clean place and tasty meals, will visit again.",5,1/27/2024,instagram,3,delivery,positive,0.6,experience,india - chennai,6.92,startup
+47,urban threads,clothing,sizes were inaccurate and returns were difficult.,1,9/5/2024,appstore,3,delivery,negative,-0.52,service,sri lanka - colombo,39.56,sme
+48,grand tandoori,restaurant,authentic flavors and generous portions.,5,9/20/2025,instagram,3,product,positive,0.96,support,india - chennai,22.24,startup
+49,dailyneeds,supermarket,some items were expired on the shelf.,1,5/9/2024,yelp,1,service,negative,-0.77,experience,india - chennai,34.43,sme
+50,fooddash,food delivery,reliable service and accurate orders.,4,5/21/2024,yelp,3,support,positive,0.97,experience,india - bangalore,30.52,enterprise
+51,futurelearn center,academic,teachers explain concepts clearly and provide good support.,4,8/7/2025,appstore,1,product,positive,0.98,service,sri lanka - kandy,37.16,startup
+52,urban threads,clothing,trendy designs and affordable prices.,5,9/17/2025,instagram,3,product,positive,0.84,quality,india - bangalore,16.83,enterprise
+53,brightpath college,academic,outdated materials and unhelpful staff.,2,2/8/2025,instagram,2,support,negative,-0.61,price,sri lanka - kandy,37.95,sme
+54,futurelearn center,academic,teachers explain concepts clearly and provide good support.,5,1/9/2025,appstore,1,delivery,positive,0.9,delivery,india - chennai,24.47,startup
+55,futurelearn center,academic,outdated materials and unhelpful staff.,2,8/5/2025,appstore,3,delivery,negative,-0.61,service,sri lanka - kandy,11.4,startup
+56,modaline,clothing,overpriced for low quality material.,2,5/4/2025,appstore,3,support,negative,-0.97,price,india - bangalore,25.72,startup
+57,modaline,clothing,overpriced for low quality material.,1,10/29/2025,facebook,3,support,negative,-0.59,support,india - chennai,11.58,startup
+58,speedybite,food delivery,app works fine but nothing impressive.,4,2/21/2024,yelp,3,support,neutral,-0.07,quality,sri lanka - colombo,34.42,startup
+59,freshmart,supermarket,quick billing and helpful staff.,5,2/15/2025,google,1,product,positive,0.77,support,sri lanka - colombo,7.53,startup
+60,mealgo,food delivery,reliable service and accurate orders.,4,8/15/2024,yelp,2,product,positive,0.75,delivery,sri lanka - colombo,29.7,sme
+61,dailyneeds,supermarket,quick billing and helpful staff.,5,6/27/2024,yelp,2,support,positive,0.73,delivery,sri lanka - colombo,32.14,startup
+62,grand tandoori,restaurant,staff were rude and the place was not clean.,2,2/28/2025,yelp,1,service,negative,-0.42,quality,india - chennai,23.55,startup
+63,stylehub,clothing,good quality fabric and perfect fit.,5,11/19/2024,appstore,1,support,positive,0.78,delivery,india - chennai,6.33,enterprise
+64,grand tandoori,restaurant,food was okay but nothing special.,4,10/9/2024,appstore,3,service,neutral,0.08,support,sri lanka - colombo,36.39,enterprise
+65,urban threads,clothing,clothes feel comfortable and durable.,4,4/11/2025,appstore,3,product,positive,0.51,delivery,sri lanka - colombo,34.37,sme
+66,futurelearn center,academic,classes often cancelled without notice.,1,5/15/2024,google,2,product,negative,-0.72,quality,india - bangalore,30.09,startup
+67,greenbasket,supermarket,fresh vegetables and well organized shelves.,4,3/7/2025,instagram,1,product,positive,0.93,delivery,sri lanka - kandy,32.69,sme
+68,stylehub,clothing,overpriced for low quality material.,1,9/23/2024,appstore,2,service,negative,-0.59,quality,india - chennai,28.57,sme
+69,grand tandoori,restaurant,"clean place and tasty meals, will visit again.",4,5/11/2024,facebook,1,service,positive,0.81,quality,sri lanka - kandy,13.97,startup
+70,ocean bites,restaurant,staff were rude and the place was not clean.,2,10/9/2025,appstore,2,support,negative,-0.93,price,india - bangalore,32.51,startup
+71,urban curry,restaurant,great ambience and quick service. loved the dinner experience.,5,1/2/2024,instagram,1,product,positive,0.99,support,sri lanka - kandy,5.16,enterprise
+72,urban threads,clothing,trendy designs and affordable prices.,5,6/3/2025,yelp,1,service,positive,0.73,service,sri lanka - colombo,36.26,sme
+73,trendwear,clothing,trendy designs and affordable prices.,4,2/4/2025,facebook,1,service,positive,0.96,support,india - bangalore,9.54,enterprise
+74,fooddash,food delivery,easy app to use and good tracking system.,5,9/19/2025,google,3,delivery,positive,0.67,delivery,india - bangalore,21.16,sme
+75,brightpath college,academic,great learning environment and useful course materials.,5,6/22/2025,instagram,1,support,positive,0.8,delivery,sri lanka - kandy,16.23,startup
+76,spice garden,restaurant,great ambience and quick service. loved the dinner experience.,5,10/3/2024,appstore,3,delivery,positive,0.72,delivery,india - chennai,19.28,sme
+77,trendwear,clothing,quality is acceptable for the price.,3,2/1/2025,instagram,3,support,neutral,-0.08,service,india - bangalore,7.18,sme
+78,urban curry,restaurant,"clean place and tasty meals, will visit again.",4,9/26/2025,yelp,1,delivery,positive,0.89,support,sri lanka - kandy,10.17,enterprise
+79,greenbasket,supermarket,fresh vegetables and well organized shelves.,4,8/21/2025,appstore,3,service,positive,0.87,price,sri lanka - kandy,5.26,sme
+80,citygrocer,supermarket,long queues at checkout counters.,1,6/28/2024,appstore,1,product,negative,-0.87,service,sri lanka - colombo,29.78,enterprise
+81,dailyneeds,supermarket,staff not responsive when asking for help.,2,5/15/2025,appstore,2,service,negative,-0.62,support,sri lanka - colombo,14.14,enterprise
+82,citygrocer,supermarket,store is okay but sometimes crowded.,3,3/29/2024,instagram,3,product,neutral,0.22,price,india - chennai,26.67,sme
+83,modaline,clothing,good quality fabric and perfect fit.,4,2/15/2025,yelp,2,delivery,positive,0.7,service,sri lanka - colombo,6.96,startup
+84,futurelearn center,academic,flexible schedules and practical lessons.,5,6/6/2024,appstore,3,service,positive,0.72,delivery,india - chennai,29.99,sme
+85,brightpath college,academic,facilities are average.,3,10/4/2024,google,3,support,neutral,-0.05,service,sri lanka - colombo,19.92,enterprise
+86,trendwear,clothing,designs are decent but limited options.,4,11/30/2024,google,3,support,neutral,0.17,service,sri lanka - colombo,19.09,startup
+87,dailyneeds,supermarket,long queues at checkout counters.,1,3/1/2025,google,1,product,negative,-0.99,price,india - chennai,20.62,startup
+88,modaline,clothing,designs are decent but limited options.,3,8/5/2024,appstore,2,service,neutral,0.07,experience,sri lanka - colombo,9.24,startup
+89,nextgen institute,academic,great learning environment and useful course materials.,4,1/24/2025,yelp,3,delivery,positive,0.91,service,sri lanka - colombo,30,enterprise
+90,grand tandoori,restaurant,"average taste, reasonable price.",4,7/13/2025,facebook,3,delivery,neutral,0.05,support,india - bangalore,39.21,enterprise
+91,dailyneeds,supermarket,quick billing and helpful staff.,4,8/19/2025,appstore,3,delivery,positive,0.99,delivery,india - chennai,24.02,sme
+92,urban curry,restaurant,authentic flavors and generous portions.,4,7/9/2024,yelp,1,service,positive,0.78,experience,india - bangalore,20.51,sme
+93,modaline,clothing,trendy designs and affordable prices.,4,10/11/2024,facebook,2,product,positive,0.61,delivery,india - bangalore,16.26,startup
+94,stylehub,clothing,clothes feel comfortable and durable.,5,10/10/2024,instagram,3,product,positive,0.93,quality,sri lanka - kandy,36.29,startup
+95,ocean bites,restaurant,overpriced for the portion size.,1,11/24/2025,appstore,3,support,negative,-0.77,experience,sri lanka - colombo,30.61,sme
+96,stylehub,clothing,trendy designs and affordable prices.,4,5/5/2025,google,1,service,positive,0.54,support,india - bangalore,31.7,sme
+97,urban threads,clothing,clothes feel comfortable and durable.,5,9/21/2025,appstore,3,product,positive,0.53,quality,sri lanka - colombo,12.16,startup
+98,fooddash,food delivery,easy app to use and good tracking system.,4,8/23/2025,yelp,1,service,positive,0.84,quality,sri lanka - colombo,6.14,sme
+99,speedybite,food delivery,reliable service and accurate orders.,4,8/6/2025,google,1,service,positive,0.96,quality,sri lanka - kandy,10.93,sme
+100,brightpath college,academic,classes often cancelled without notice.,2,3/12/2025,google,3,service,negative,-0.61,quality,india - bangalore,28.58,startup
+101,urban threads,clothing,sizes were inaccurate and returns were difficult.,2,6/1/2025,instagram,1,delivery,negative,-0.67,quality,india - bangalore,23.3,enterprise
+102,fooddash,food delivery,cold food and poor packaging.,2,12/31/2024,instagram,1,service,negative,-1,experience,india - chennai,24.52,startup
+103,skillbridge academy,academic,flexible schedules and practical lessons.,5,4/23/2024,google,3,delivery,positive,0.77,experience,sri lanka - kandy,17.58,enterprise
+104,futurelearn center,academic,flexible schedules and practical lessons.,4,1/8/2024,yelp,3,service,positive,0.86,support,sri lanka - colombo,13.29,startup
+105,greenbasket,supermarket,store is okay but sometimes crowded.,3,12/9/2024,yelp,2,product,neutral,0.16,experience,sri lanka - kandy,13.82,enterprise
+106,urban threads,clothing,trendy designs and affordable prices.,5,2/6/2024,google,3,support,positive,0.88,experience,india - chennai,28.2,startup
+107,brightpath college,academic,outdated materials and unhelpful staff.,1,4/1/2024,instagram,1,product,negative,-0.92,quality,india - bangalore,10.66,enterprise
+108,mealgo,food delivery,order was delayed and items missing.,1,11/20/2024,instagram,3,product,negative,-0.67,experience,sri lanka - colombo,5.19,startup
+109,urban threads,clothing,good quality fabric and perfect fit.,5,12/31/2024,appstore,3,delivery,positive,0.86,price,sri lanka - colombo,13.63,enterprise
+110,urban curry,restaurant,authentic flavors and generous portions.,4,2/25/2024,appstore,3,product,positive,0.64,experience,sri lanka - kandy,33.26,sme
+111,grand tandoori,restaurant,overpriced for the portion size.,1,10/1/2024,appstore,3,support,negative,-0.51,delivery,sri lanka - colombo,32.85,sme
+112,mealgo,food delivery,app crashed while placing order.,1,6/10/2024,google,2,delivery,negative,-0.87,quality,sri lanka - colombo,25.06,startup
+113,stylehub,clothing,trendy designs and affordable prices.,4,11/21/2025,facebook,1,product,positive,0.69,experience,sri lanka - colombo,35.37,startup
+114,grand tandoori,restaurant,"clean place and tasty meals, will visit again.",5,4/21/2024,facebook,1,support,positive,0.66,quality,india - bangalore,6.13,startup
+115,skillbridge academy,academic,poor communication from administration.,2,5/22/2024,facebook,2,service,negative,-0.67,quality,sri lanka - kandy,8.41,enterprise
+116,urban curry,restaurant,overpriced for the portion size.,2,7/25/2025,google,3,product,negative,-0.49,price,sri lanka - colombo,16.03,sme
+117,trendwear,clothing,trendy designs and affordable prices.,4,7/21/2025,appstore,1,delivery,positive,0.97,price,sri lanka - kandy,20.01,sme
+118,citygrocer,supermarket,quick billing and helpful staff.,4,3/27/2025,appstore,3,product,positive,0.65,price,india - chennai,16.44,sme
+119,grand tandoori,restaurant,authentic flavors and generous portions.,4,3/5/2024,yelp,3,product,positive,0.6,quality,sri lanka - kandy,12.49,sme
+120,futurelearn center,academic,great learning environment and useful course materials.,4,5/16/2024,appstore,1,service,positive,0.98,price,sri lanka - kandy,20.99,enterprise
+121,trendwear,clothing,trendy designs and affordable prices.,4,7/19/2024,google,2,delivery,positive,0.94,service,sri lanka - kandy,10.22,sme
+122,skillbridge academy,academic,course content is fine but could be updated.,4,4/16/2024,facebook,2,delivery,neutral,0.19,delivery,sri lanka - kandy,12.07,startup
+123,fooddash,food delivery,cold food and poor packaging.,1,3/26/2025,facebook,3,product,negative,-0.48,experience,sri lanka - kandy,38.24,sme
+124,citygrocer,supermarket,fresh vegetables and well organized shelves.,5,7/12/2025,instagram,1,product,positive,0.82,service,sri lanka - kandy,11.8,startup
+125,nextgen institute,academic,great learning environment and useful course materials.,5,10/17/2024,facebook,3,support,positive,0.7,price,sri lanka - colombo,36.06,enterprise
+126,nextgen institute,academic,great learning environment and useful course materials.,5,3/15/2024,google,2,delivery,positive,0.67,service,india - bangalore,16.4,enterprise
+127,mealgo,food delivery,easy app to use and good tracking system.,4,9/17/2025,yelp,3,service,positive,0.65,delivery,sri lanka - colombo,5.79,enterprise
+128,speedybite,food delivery,delivery was fast and food arrived hot.,5,4/25/2024,yelp,2,service,positive,0.74,experience,sri lanka - colombo,18.16,startup
+129,stylehub,clothing,overpriced for low quality material.,2,12/2/2024,yelp,2,service,negative,-0.82,support,sri lanka - colombo,33.33,enterprise
+130,modaline,clothing,good quality fabric and perfect fit.,4,11/12/2024,facebook,1,service,positive,0.56,service,india - chennai,35.11,enterprise
+131,stylehub,clothing,good quality fabric and perfect fit.,4,5/16/2024,facebook,3,support,positive,0.76,quality,india - chennai,29.62,sme
+132,citygrocer,supermarket,staff not responsive when asking for help.,2,7/24/2024,instagram,3,product,negative,-0.73,price,sri lanka - kandy,10.7,enterprise
+133,quickeats,food delivery,easy app to use and good tracking system.,5,1/7/2025,facebook,3,service,positive,0.67,quality,india - chennai,37.76,startup
+134,trendwear,clothing,clothes feel comfortable and durable.,4,1/1/2024,google,2,delivery,positive,0.88,experience,india - chennai,21.1,sme
+135,brightpath college,academic,course content is fine but could be updated.,4,3/15/2024,google,3,delivery,neutral,0.19,quality,india - chennai,19.47,enterprise
+136,urban threads,clothing,trendy designs and affordable prices.,4,8/14/2024,facebook,2,support,positive,0.74,support,sri lanka - colombo,28.83,sme
+137,modaline,clothing,sizes were inaccurate and returns were difficult.,2,5/7/2025,google,2,product,negative,-0.44,delivery,india - bangalore,34.88,sme
+138,greenbasket,supermarket,wide variety of products at good prices.,4,3/23/2025,instagram,2,product,positive,0.65,delivery,sri lanka - kandy,28.26,sme
+139,stylehub,clothing,sizes were inaccurate and returns were difficult.,2,2/7/2024,yelp,2,service,negative,-0.69,support,sri lanka - colombo,32.3,startup
+140,futurelearn center,academic,poor communication from administration.,2,5/5/2025,appstore,2,delivery,negative,-0.51,service,india - bangalore,11.8,startup
+141,grand tandoori,restaurant,overpriced for the portion size.,1,1/3/2024,yelp,3,delivery,negative,-0.95,experience,sri lanka - colombo,34.54,sme
+142,ocean bites,restaurant,authentic flavors and generous portions.,5,9/23/2025,appstore,1,product,positive,0.95,service,sri lanka - kandy,31.4,sme
+143,speedybite,food delivery,easy app to use and good tracking system.,4,1/3/2024,instagram,3,service,positive,1,experience,india - chennai,24.61,sme
+144,skillbridge academy,academic,teachers explain concepts clearly and provide good support.,5,1/6/2024,yelp,2,product,positive,0.97,price,india - bangalore,20.95,startup
+145,urban threads,clothing,clothes feel comfortable and durable.,5,2/23/2024,yelp,1,service,positive,0.76,service,sri lanka - colombo,13.29,startup
+146,trendwear,clothing,sizes were inaccurate and returns were difficult.,2,11/12/2024,appstore,2,product,negative,-0.7,support,india - bangalore,10.59,enterprise
+147,urban threads,clothing,sizes were inaccurate and returns were difficult.,2,1/12/2024,instagram,2,support,negative,-0.48,support,sri lanka - kandy,21.17,sme
+148,stylehub,clothing,clothes feel comfortable and durable.,4,1/5/2025,instagram,3,service,positive,0.78,price,india - chennai,22.1,enterprise
+149,spice garden,restaurant,"average taste, reasonable price.",3,3/7/2024,appstore,2,product,neutral,0.18,service,india - chennai,22.32,enterprise
+150,skillbridge academy,academic,classes often cancelled without notice.,2,3/28/2025,appstore,1,delivery,negative,-0.91,experience,sri lanka - colombo,24.75,enterprise
+151,mealgo,food delivery,cold food and poor packaging.,2,11/5/2024,yelp,2,support,negative,-0.73,quality,sri lanka - kandy,22.72,enterprise
+152,spice garden,restaurant,"clean place and tasty meals, will visit again.",4,11/22/2024,facebook,2,product,positive,0.83,delivery,india - chennai,11.55,startup
+153,skillbridge academy,academic,great learning environment and useful course materials.,5,5/31/2025,google,3,product,positive,0.82,price,india - chennai,39.25,sme
+154,urban curry,restaurant,authentic flavors and generous portions.,5,3/9/2024,yelp,3,support,positive,0.92,support,india - chennai,23.21,sme
+155,urban curry,restaurant,staff were rude and the place was not clean.,2,7/28/2024,instagram,1,support,negative,-0.54,service,sri lanka - kandy,18.6,sme
+156,nextgen institute,academic,outdated materials and unhelpful staff.,2,1/17/2025,yelp,2,support,negative,-0.41,quality,sri lanka - colombo,11.4,startup
+157,brightpath college,academic,course content is fine but could be updated.,3,8/2/2025,facebook,3,service,neutral,0.12,delivery,sri lanka - kandy,36.02,enterprise
+158,modaline,clothing,trendy designs and affordable prices.,5,8/4/2025,instagram,1,support,positive,0.99,delivery,sri lanka - colombo,13.73,startup
+159,freshmart,supermarket,long queues at checkout counters.,1,4/13/2024,appstore,1,support,negative,-0.74,quality,sri lanka - colombo,17.29,sme
+160,spice garden,restaurant,staff were rude and the place was not clean.,1,9/15/2024,appstore,2,delivery,negative,-0.79,experience,india - chennai,29.31,enterprise
+161,fooddash,food delivery,cold food and poor packaging.,2,10/18/2024,google,1,delivery,negative,-0.45,price,india - bangalore,8.61,sme
+162,futurelearn center,academic,classes often cancelled without notice.,2,10/2/2024,appstore,1,product,negative,-0.55,support,india - chennai,35.45,sme
+163,nextgen institute,academic,flexible schedules and practical lessons.,4,7/11/2024,google,2,delivery,positive,0.75,delivery,sri lanka - colombo,35.01,enterprise
+164,spice garden,restaurant,overpriced for the portion size.,1,1/4/2024,google,3,support,negative,-0.61,experience,india - bangalore,29.2,sme
+165,futurelearn center,academic,flexible schedules and practical lessons.,4,1/23/2024,appstore,3,delivery,positive,0.55,service,india - chennai,24.18,enterprise
+166,speedybite,food delivery,app crashed while placing order.,2,11/12/2025,google,3,delivery,negative,-0.89,experience,sri lanka - kandy,39.64,startup
+167,urban threads,clothing,fabric quality is poor and shrank after washing.,1,3/14/2025,google,1,delivery,negative,-0.9,service,india - chennai,32.32,startup
+168,modaline,clothing,quality is acceptable for the price.,3,3/2/2024,appstore,1,product,neutral,0.1,delivery,india - chennai,11.24,enterprise
+169,quickeats,food delivery,order was delayed and items missing.,1,7/22/2025,google,3,delivery,negative,-0.8,service,sri lanka - kandy,10.71,enterprise
+170,fooddash,food delivery,reliable service and accurate orders.,4,9/2/2025,google,3,delivery,positive,0.75,service,india - bangalore,13.52,sme
+171,grand tandoori,restaurant,staff were rude and the place was not clean.,2,9/24/2024,google,2,delivery,negative,-0.56,quality,sri lanka - kandy,38.22,enterprise
+172,speedybite,food delivery,reliable service and accurate orders.,4,9/25/2024,yelp,3,delivery,positive,0.65,delivery,india - bangalore,12.48,startup
+173,modaline,clothing,designs are decent but limited options.,3,11/27/2025,yelp,2,product,neutral,0.22,delivery,india - chennai,11.22,startup
+174,trendwear,clothing,sizes were inaccurate and returns were difficult.,1,8/26/2025,appstore,1,support,negative,-0.52,delivery,sri lanka - colombo,27.97,sme
+175,speedybite,food delivery,app crashed while placing order.,1,11/28/2024,appstore,2,support,negative,-0.84,support,sri lanka - colombo,34.42,startup
+176,grand tandoori,restaurant,"average taste, reasonable price.",4,1/13/2024,instagram,2,service,neutral,0.11,experience,india - bangalore,25.83,enterprise
+177,quickeats,food delivery,easy app to use and good tracking system.,4,3/4/2025,facebook,1,service,positive,0.81,quality,sri lanka - kandy,19.44,enterprise
+178,futurelearn center,academic,classes often cancelled without notice.,1,2/21/2025,yelp,3,product,negative,-0.6,quality,india - chennai,19.22,enterprise
+179,fooddash,food delivery,delivery time was acceptable.,3,3/21/2024,appstore,3,delivery,neutral,0.02,delivery,sri lanka - kandy,13.86,startup
+180,urban threads,clothing,sizes were inaccurate and returns were difficult.,1,9/19/2025,appstore,1,product,negative,-0.91,experience,india - chennai,20.32,startup
+181,urban threads,clothing,fabric quality is poor and shrank after washing.,2,5/27/2024,yelp,3,product,negative,-0.55,support,india - chennai,24.11,enterprise
+182,greenbasket,supermarket,quick billing and helpful staff.,4,10/10/2024,yelp,1,delivery,positive,0.71,quality,india - chennai,16.52,sme
+183,urban curry,restaurant,authentic flavors and generous portions.,5,2/18/2025,appstore,1,delivery,positive,0.74,service,india - bangalore,12.17,enterprise
+184,modaline,clothing,fabric quality is poor and shrank after washing.,1,1/9/2024,yelp,1,support,negative,-0.59,experience,india - bangalore,5.2,sme
+185,urban threads,clothing,trendy designs and affordable prices.,4,8/2/2025,yelp,1,delivery,positive,0.96,quality,india - chennai,18.37,sme
+186,grand tandoori,restaurant,"clean place and tasty meals, will visit again.",5,3/23/2024,facebook,2,product,positive,0.55,quality,india - bangalore,20.46,sme
+187,brightpath college,academic,great learning environment and useful course materials.,5,2/29/2024,instagram,1,product,positive,0.53,delivery,india - bangalore,28.8,enterprise
+188,mealgo,food delivery,app works fine but nothing impressive.,4,9/14/2025,instagram,3,support,neutral,0.21,support,sri lanka - colombo,25.08,startup
+189,brightpath college,academic,teachers explain concepts clearly and provide good support.,4,10/19/2024,google,3,support,positive,0.62,experience,sri lanka - colombo,9.38,startup
+190,ocean bites,restaurant,"clean place and tasty meals, will visit again.",4,11/17/2025,yelp,2,delivery,positive,0.95,price,india - bangalore,16.38,enterprise
+191,freshmart,supermarket,fresh vegetables and well organized shelves.,5,9/12/2025,yelp,1,service,positive,0.53,quality,sri lanka - colombo,19.22,sme
+192,spice garden,restaurant,the food was delicious and the staff were very friendly.,5,6/11/2025,yelp,3,support,positive,0.87,experience,sri lanka - colombo,28.96,sme
+193,stylehub,clothing,overpriced for low quality material.,2,3/7/2024,yelp,1,product,negative,-0.73,quality,sri lanka - kandy,9.61,enterprise
+194,citygrocer,supermarket,quick billing and helpful staff.,4,8/27/2025,instagram,2,service,positive,0.81,price,sri lanka - kandy,39.03,enterprise
+195,trendwear,clothing,good quality fabric and perfect fit.,5,3/26/2025,google,2,service,positive,0.9,support,india - bangalore,9.8,sme
+196,modaline,clothing,sizes were inaccurate and returns were difficult.,2,8/3/2024,instagram,3,service,negative,-0.72,support,india - bangalore,12.96,enterprise
+197,quickeats,food delivery,delivery was fast and food arrived hot.,4,11/9/2025,google,1,support,positive,0.72,experience,india - chennai,22.27,enterprise
+198,dailyneeds,supermarket,staff not responsive when asking for help.,2,10/14/2024,facebook,3,delivery,negative,-0.56,quality,india - chennai,22.67,sme
+199,skillbridge academy,academic,great learning environment and useful course materials.,4,6/29/2025,instagram,3,product,positive,0.97,service,sri lanka - kandy,31.45,startup
+200,urban threads,clothing,overpriced for low quality material.,1,7/11/2025,facebook,1,product,negative,-0.98,price,india - bangalore,19.44,enterprise
+201,urban threads,clothing,trendy designs and affordable prices.,4,2/20/2024,yelp,2,service,positive,0.51,quality,india - chennai,35.06,sme
+202,urban curry,restaurant,"clean place and tasty meals, will visit again.",4,5/22/2025,instagram,3,product,positive,0.69,service,india - chennai,39.73,enterprise
+203,trendwear,clothing,trendy designs and affordable prices.,4,8/18/2025,google,3,support,positive,0.75,price,india - bangalore,19.65,sme
+204,ocean bites,restaurant,overpriced for the portion size.,2,2/1/2025,yelp,2,service,negative,-0.54,support,sri lanka - colombo,34.38,enterprise
+205,greenbasket,supermarket,long queues at checkout counters.,1,10/24/2024,facebook,1,product,negative,-0.8,experience,india - chennai,24.24,enterprise
+206,greenbasket,supermarket,fresh vegetables and well organized shelves.,5,2/3/2024,facebook,2,support,positive,0.98,quality,sri lanka - colombo,35.82,enterprise
+207,quickeats,food delivery,app crashed while placing order.,2,2/4/2024,google,1,support,negative,-0.45,experience,india - bangalore,8.76,sme
+208,dailyneeds,supermarket,store is okay but sometimes crowded.,3,3/16/2024,instagram,3,product,neutral,0.03,support,sri lanka - kandy,6.05,startup
+209,modaline,clothing,trendy designs and affordable prices.,4,7/3/2024,yelp,2,support,positive,0.63,price,india - chennai,20.72,startup
+210,fooddash,food delivery,easy app to use and good tracking system.,4,10/8/2025,google,3,product,positive,0.73,delivery,sri lanka - kandy,26.1,sme
+211,modaline,clothing,good quality fabric and perfect fit.,4,8/2/2025,instagram,1,service,positive,0.69,experience,india - bangalore,25.65,sme
+212,brightpath college,academic,poor communication from administration.,2,2/13/2024,appstore,3,delivery,negative,-0.93,delivery,sri lanka - kandy,14.44,startup
+213,futurelearn center,academic,poor communication from administration.,1,1/17/2025,google,3,support,negative,-0.63,quality,sri lanka - colombo,9.81,sme
+214,speedybite,food delivery,order was delayed and items missing.,1,2/2/2024,instagram,1,support,negative,-0.9,service,india - chennai,16.21,sme
+215,trendwear,clothing,quality is acceptable for the price.,4,4/19/2024,appstore,1,product,neutral,0.16,support,sri lanka - kandy,26.31,sme
+216,brightpath college,academic,teachers explain concepts clearly and provide good support.,4,2/24/2025,instagram,1,support,positive,0.97,experience,sri lanka - kandy,28.06,sme
+217,greenbasket,supermarket,quick billing and helpful staff.,4,5/17/2025,appstore,1,product,positive,0.58,price,sri lanka - colombo,28.12,startup
+218,trendwear,clothing,designs are decent but limited options.,3,6/16/2025,instagram,1,support,neutral,0.1,support,sri lanka - kandy,12.19,sme
+219,urban threads,clothing,trendy designs and affordable prices.,4,2/15/2024,facebook,2,delivery,positive,0.99,price,india - bangalore,29.9,sme
+220,futurelearn center,academic,poor communication from administration.,1,2/11/2024,instagram,2,support,negative,-0.46,service,india - bangalore,27.43,startup
+221,modaline,clothing,trendy designs and affordable prices.,5,9/27/2025,appstore,2,service,positive,0.63,experience,india - bangalore,38.09,startup
+222,freshmart,supermarket,wide variety of products at good prices.,5,9/7/2025,appstore,1,delivery,positive,0.88,experience,sri lanka - colombo,11.66,startup
+223,spice garden,restaurant,great ambience and quick service. loved the dinner experience.,5,10/25/2025,yelp,2,delivery,positive,0.69,service,sri lanka - kandy,15.43,startup
+224,grand tandoori,restaurant,great ambience and quick service. loved the dinner experience.,4,9/19/2024,instagram,2,service,positive,0.78,price,india - chennai,31.56,sme
+225,brightpath college,academic,teachers explain concepts clearly and provide good support.,5,8/2/2024,appstore,1,delivery,positive,0.82,service,india - bangalore,24.28,enterprise
+226,freshmart,supermarket,quick billing and helpful staff.,4,7/8/2025,appstore,1,support,positive,0.76,price,india - bangalore,10.81,startup
+227,quickeats,food delivery,cold food and poor packaging.,2,5/14/2025,facebook,2,service,negative,-0.61,experience,india - chennai,37.46,sme
+228,greenbasket,supermarket,store is okay but sometimes crowded.,4,9/28/2024,yelp,2,service,neutral,0.02,price,sri lanka - kandy,13.12,sme
+229,urban curry,restaurant,the food was delicious and the staff were very friendly.,5,6/10/2024,facebook,1,support,positive,0.9,price,sri lanka - colombo,31.81,enterprise
+230,nextgen institute,academic,teachers explain concepts clearly and provide good support.,4,8/29/2024,yelp,2,support,positive,0.98,support,sri lanka - kandy,35.74,sme
+231,citygrocer,supermarket,wide variety of products at good prices.,4,2/14/2025,yelp,1,service,positive,0.93,delivery,india - bangalore,15.96,startup
+232,modaline,clothing,clothes feel comfortable and durable.,5,8/27/2025,google,1,product,positive,0.94,service,india - bangalore,36.39,startup
+233,futurelearn center,academic,classes often cancelled without notice.,1,4/14/2025,instagram,3,product,negative,-0.67,delivery,sri lanka - colombo,15.03,sme
+234,speedybite,food delivery,easy app to use and good tracking system.,5,3/7/2024,yelp,2,delivery,positive,0.86,service,sri lanka - kandy,16.9,enterprise
+235,nextgen institute,academic,great learning environment and useful course materials.,5,10/23/2025,yelp,1,product,positive,0.93,service,sri lanka - kandy,23.85,enterprise
+236,modaline,clothing,designs are decent but limited options.,3,11/14/2025,yelp,1,delivery,neutral,0.2,service,india - chennai,26.08,sme
+237,grand tandoori,restaurant,service was fine but a bit slow during peak hours.,3,3/26/2024,instagram,1,support,neutral,0.01,service,india - chennai,21.81,startup
+238,nextgen institute,academic,flexible schedules and practical lessons.,5,5/2/2024,instagram,1,delivery,positive,0.94,price,india - chennai,25.86,startup
+239,greenbasket,supermarket,wide variety of products at good prices.,5,8/2/2024,appstore,1,support,positive,0.59,price,sri lanka - colombo,20.4,startup
+240,freshmart,supermarket,store is okay but sometimes crowded.,3,10/23/2025,google,3,delivery,neutral,0.29,support,sri lanka - kandy,7.94,sme
+241,quickeats,food delivery,app crashed while placing order.,1,5/15/2025,instagram,3,support,negative,-0.56,price,india - bangalore,27.43,startup
+242,trendwear,clothing,fabric quality is poor and shrank after washing.,2,1/8/2025,google,2,product,negative,-0.86,quality,sri lanka - kandy,12.29,sme
+243,speedybite,food delivery,easy app to use and good tracking system.,5,2/2/2025,appstore,3,delivery,positive,0.96,experience,sri lanka - colombo,20.67,enterprise
+244,fooddash,food delivery,order was delayed and items missing.,2,8/30/2025,appstore,1,service,negative,-0.52,experience,sri lanka - kandy,38.29,startup
+245,spice garden,restaurant,"average taste, reasonable price.",3,4/2/2024,facebook,1,service,neutral,0.2,service,india - chennai,30.94,startup
+246,futurelearn center,academic,outdated materials and unhelpful staff.,2,4/24/2024,google,1,product,negative,-0.54,price,india - chennai,6.21,enterprise
+247,trendwear,clothing,good quality fabric and perfect fit.,4,3/13/2025,yelp,2,support,positive,0.53,quality,sri lanka - kandy,15.72,startup
+248,nextgen institute,academic,facilities are average.,3,4/2/2025,facebook,3,delivery,neutral,0.09,support,india - chennai,22.09,sme
+249,spice garden,restaurant,food arrived cold and the service was slow.,1,6/10/2025,appstore,1,service,negative,-0.52,quality,india - bangalore,10.16,sme
+250,futurelearn center,academic,flexible schedules and practical lessons.,5,3/13/2024,appstore,1,product,positive,0.67,price,india - chennai,30.62,sme
+251,ocean bites,restaurant,overpriced for the portion size.,1,11/12/2024,facebook,3,delivery,negative,-0.76,experience,india - bangalore,11.32,sme
+252,mealgo,food delivery,app crashed while placing order.,1,4/23/2024,instagram,1,support,negative,-0.97,service,india - chennai,35.4,startup
+253,urban curry,restaurant,authentic flavors and generous portions.,4,2/19/2025,google,1,service,positive,0.59,price,india - chennai,19.3,startup
+254,urban curry,restaurant,staff were rude and the place was not clean.,2,9/12/2025,appstore,2,support,negative,-0.42,experience,sri lanka - colombo,8.5,sme
+255,citygrocer,supermarket,fresh vegetables and well organized shelves.,4,3/23/2025,facebook,2,support,positive,1,service,india - chennai,18.94,sme
+256,urban threads,clothing,good quality fabric and perfect fit.,4,4/12/2024,google,1,service,positive,0.94,service,india - bangalore,29.91,enterprise
+257,dailyneeds,supermarket,wide variety of products at good prices.,4,1/18/2025,yelp,2,delivery,positive,0.59,support,india - chennai,19.77,enterprise
+258,urban curry,restaurant,staff were rude and the place was not clean.,2,4/16/2025,appstore,3,product,negative,-0.79,experience,sri lanka - kandy,28.08,sme
+259,speedybite,food delivery,easy app to use and good tracking system.,4,3/26/2025,facebook,2,service,positive,0.94,support,sri lanka - kandy,38.72,sme
+260,trendwear,clothing,clothes feel comfortable and durable.,5,3/17/2025,instagram,2,support,positive,0.53,support,india - chennai,16.91,sme
+261,fooddash,food delivery,delivery time was acceptable.,4,2/24/2025,yelp,3,delivery,neutral,0.27,price,sri lanka - kandy,33.7,enterprise
+262,urban curry,restaurant,food arrived cold and the service was slow.,2,9/6/2024,appstore,1,delivery,negative,-0.94,delivery,india - chennai,19.38,sme
+263,citygrocer,supermarket,fresh vegetables and well organized shelves.,5,10/1/2024,facebook,1,support,positive,0.81,service,india - chennai,16.73,enterprise
+264,freshmart,supermarket,wide variety of products at good prices.,4,5/3/2024,google,3,support,positive,0.95,support,sri lanka - colombo,34.87,sme
+265,speedybite,food delivery,cold food and poor packaging.,1,11/13/2025,yelp,2,support,negative,-0.75,support,india - bangalore,27.42,enterprise
+266,speedybite,food delivery,app works fine but nothing impressive.,4,9/23/2025,yelp,1,delivery,neutral,-0.03,price,sri lanka - kandy,37.64,startup
+267,citygrocer,supermarket,quick billing and helpful staff.,4,12/27/2024,appstore,1,delivery,positive,0.93,price,sri lanka - kandy,22.26,startup
+268,grand tandoori,restaurant,great ambience and quick service. loved the dinner experience.,5,5/19/2024,yelp,2,product,positive,0.6,quality,india - chennai,25.39,startup
+269,spice garden,restaurant,staff were rude and the place was not clean.,2,5/26/2024,google,2,delivery,negative,-0.88,delivery,india - chennai,14.54,startup
+270,greenbasket,supermarket,store is okay but sometimes crowded.,4,2/20/2025,appstore,1,service,neutral,0.18,experience,sri lanka - kandy,16.38,startup
+271,trendwear,clothing,trendy designs and affordable prices.,5,5/14/2024,instagram,3,product,positive,0.85,support,india - chennai,39.61,enterprise
+272,futurelearn center,academic,classes often cancelled without notice.,2,11/19/2024,google,3,delivery,negative,-0.81,quality,india - chennai,25.96,startup
+273,quickeats,food delivery,reliable service and accurate orders.,4,3/1/2025,yelp,1,product,positive,0.5,experience,sri lanka - kandy,27.21,startup
+274,grand tandoori,restaurant,staff were rude and the place was not clean.,2,2/15/2025,appstore,3,product,negative,-0.58,delivery,india - bangalore,7.06,startup
+275,brightpath college,academic,course content is fine but could be updated.,3,1/13/2024,yelp,2,service,neutral,-0.02,price,india - bangalore,24.06,startup
+276,trendwear,clothing,trendy designs and affordable prices.,4,1/8/2024,yelp,3,delivery,positive,0.94,experience,india - chennai,12.13,startup
+277,futurelearn center,academic,facilities are average.,3,3/5/2024,facebook,3,product,neutral,0.22,quality,india - bangalore,21.07,sme
+278,dailyneeds,supermarket,some items were expired on the shelf.,1,11/13/2024,instagram,1,product,negative,-0.46,price,india - bangalore,35.34,enterprise
+279,freshmart,supermarket,quick billing and helpful staff.,4,7/25/2025,google,3,delivery,positive,0.72,delivery,sri lanka - kandy,31.53,enterprise
+280,urban curry,restaurant,service was fine but a bit slow during peak hours.,3,12/19/2024,instagram,2,delivery,neutral,0.07,service,india - chennai,37.3,startup
+281,stylehub,clothing,good quality fabric and perfect fit.,5,11/23/2024,appstore,2,service,positive,0.69,experience,sri lanka - colombo,16.32,enterprise
+282,urban threads,clothing,sizes were inaccurate and returns were difficult.,1,2/1/2025,google,3,support,negative,-0.65,price,india - bangalore,12.29,startup
+283,dailyneeds,supermarket,long queues at checkout counters.,2,2/5/2025,google,2,support,negative,-0.6,experience,sri lanka - kandy,15.07,enterprise
+284,quickeats,food delivery,cold food and poor packaging.,1,6/21/2024,appstore,3,support,negative,-0.93,quality,india - chennai,5.11,sme
+285,spice garden,restaurant,great ambience and quick service. loved the dinner experience.,5,2/26/2024,facebook,3,service,positive,0.68,experience,sri lanka - kandy,7.57,enterprise
+286,mealgo,food delivery,reliable service and accurate orders.,5,3/13/2024,google,3,delivery,positive,0.65,price,sri lanka - colombo,18.82,sme
+287,nextgen institute,academic,flexible schedules and practical lessons.,5,10/28/2025,yelp,2,delivery,positive,0.93,quality,sri lanka - kandy,5.28,startup
+288,ocean bites,restaurant,authentic flavors and generous portions.,4,11/8/2024,google,3,product,positive,0.51,support,sri lanka - kandy,27.94,enterprise
+289,citygrocer,supermarket,fresh vegetables and well organized shelves.,4,4/17/2024,yelp,3,delivery,positive,0.54,service,sri lanka - kandy,13.22,startup
+290,greenbasket,supermarket,wide variety of products at good prices.,5,4/13/2024,google,1,delivery,positive,0.53,experience,india - bangalore,32.07,enterprise
+291,freshmart,supermarket,store is okay but sometimes crowded.,4,11/11/2025,appstore,3,product,neutral,0.07,delivery,sri lanka - colombo,21.54,enterprise
+292,mealgo,food delivery,delivery was fast and food arrived hot.,4,7/3/2024,facebook,1,service,positive,0.89,delivery,india - bangalore,34.83,startup
+293,citygrocer,supermarket,store is okay but sometimes crowded.,3,6/2/2025,yelp,3,support,neutral,0.01,support,sri lanka - kandy,14.33,enterprise
+294,brightpath college,academic,great learning environment and useful course materials.,5,2/26/2025,yelp,2,support,positive,0.83,support,india - bangalore,17.25,startup
+295,nextgen institute,academic,great learning environment and useful course materials.,5,5/1/2025,appstore,2,product,positive,0.81,quality,india - chennai,17.11,enterprise
+296,citygrocer,supermarket,wide variety of products at good prices.,4,1/29/2025,instagram,2,delivery,positive,0.51,price,sri lanka - kandy,23.97,startup
+297,nextgen institute,academic,great learning environment and useful course materials.,4,9/28/2025,yelp,2,support,positive,0.83,price,sri lanka - colombo,18.07,enterprise
+298,fooddash,food delivery,delivery time was acceptable.,3,1/18/2024,google,2,service,neutral,0.08,delivery,india - bangalore,16.78,startup
+299,ocean bites,restaurant,great ambience and quick service. loved the dinner experience.,4,12/16/2024,yelp,3,product,positive,0.55,experience,india - bangalore,28.1,enterprise
+300,urban curry,restaurant,staff were rude and the place was not clean.,2,1/19/2024,google,1,delivery,negative,-0.72,quality,sri lanka - kandy,14.46,startup
+301,mealgo,food delivery,easy app to use and good tracking system.,4,10/10/2024,appstore,1,delivery,positive,0.97,experience,india - chennai,36.33,sme
+302,brightpath college,academic,flexible schedules and practical lessons.,5,7/5/2024,appstore,1,service,positive,0.6,service,india - chennai,8.59,sme
+303,skillbridge academy,academic,great learning environment and useful course materials.,5,11/4/2025,facebook,1,support,positive,0.77,experience,sri lanka - kandy,33.63,sme
+304,stylehub,clothing,fabric quality is poor and shrank after washing.,1,11/2/2025,facebook,2,product,negative,-0.91,price,sri lanka - colombo,15.22,enterprise
+305,urban threads,clothing,designs are decent but limited options.,4,6/9/2024,instagram,3,support,neutral,0.23,experience,india - chennai,7.94,sme
+306,skillbridge academy,academic,teachers explain concepts clearly and provide good support.,5,12/13/2024,appstore,1,support,positive,0.55,quality,sri lanka - colombo,14.28,sme
+307,modaline,clothing,good quality fabric and perfect fit.,4,7/13/2025,facebook,1,support,positive,0.91,support,sri lanka - kandy,30.23,sme
+308,urban curry,restaurant,food arrived cold and the service was slow.,1,8/9/2024,google,1,product,negative,-0.95,experience,india - chennai,11.55,startup
+309,speedybite,food delivery,order was delayed and items missing.,1,1/20/2024,appstore,1,delivery,negative,-0.85,support,sri lanka - kandy,18.96,sme
+310,modaline,clothing,designs are decent but limited options.,4,10/17/2025,yelp,1,service,neutral,-0.09,experience,india - bangalore,24.96,enterprise
+311,fooddash,food delivery,reliable service and accurate orders.,5,9/23/2024,yelp,3,service,positive,0.75,support,sri lanka - kandy,21.11,sme
+312,modaline,clothing,trendy designs and affordable prices.,4,11/8/2024,instagram,2,service,positive,0.84,delivery,india - bangalore,33.03,sme
+313,skillbridge academy,academic,teachers explain concepts clearly and provide good support.,5,10/23/2025,facebook,1,service,positive,0.8,delivery,india - bangalore,22.93,enterprise
+314,futurelearn center,academic,course content is fine but could be updated.,4,9/13/2025,yelp,3,support,neutral,0.16,experience,india - bangalore,30.92,enterprise
+315,dailyneeds,supermarket,store is okay but sometimes crowded.,4,8/31/2024,yelp,2,product,neutral,0.15,experience,sri lanka - colombo,16.31,sme
+316,mealgo,food delivery,reliable service and accurate orders.,4,8/5/2024,instagram,2,delivery,positive,0.59,service,india - chennai,37.43,enterprise
+317,citygrocer,supermarket,wide variety of products at good prices.,5,9/1/2025,yelp,2,support,positive,0.99,quality,india - bangalore,6.91,startup
+318,urban threads,clothing,good quality fabric and perfect fit.,5,1/25/2025,instagram,3,service,positive,0.95,price,india - chennai,37.51,sme
+319,fooddash,food delivery,cold food and poor packaging.,1,2/25/2025,yelp,1,service,negative,-0.9,quality,sri lanka - colombo,21.04,startup
+320,greenbasket,supermarket,wide variety of products at good prices.,5,6/15/2024,instagram,1,product,positive,0.52,support,india - chennai,5.03,startup
+321,skillbridge academy,academic,teachers explain concepts clearly and provide good support.,4,3/26/2024,instagram,3,product,positive,0.83,price,sri lanka - colombo,30.43,enterprise
+322,greenbasket,supermarket,staff not responsive when asking for help.,2,5/4/2025,yelp,1,delivery,negative,-0.66,service,india - bangalore,24.01,sme
+323,grand tandoori,restaurant,authentic flavors and generous portions.,4,12/5/2024,appstore,3,delivery,positive,0.59,experience,sri lanka - kandy,15.86,sme
+324,greenbasket,supermarket,wide variety of products at good prices.,4,1/12/2025,facebook,3,service,positive,0.99,experience,india - bangalore,31.67,enterprise
+325,mealgo,food delivery,easy app to use and good tracking system.,5,6/21/2025,yelp,1,service,positive,0.92,service,india - chennai,31.77,enterprise
+326,spice garden,restaurant,food was okay but nothing special.,4,5/8/2025,facebook,1,service,neutral,0.02,delivery,sri lanka - colombo,27.57,enterprise
+327,mealgo,food delivery,easy app to use and good tracking system.,4,2/10/2025,facebook,3,service,positive,0.85,price,india - chennai,18.92,enterprise
+328,brightpath college,academic,facilities are average.,4,10/22/2025,yelp,1,support,neutral,0,quality,sri lanka - kandy,31.63,sme
+329,fooddash,food delivery,reliable service and accurate orders.,5,9/18/2025,facebook,3,delivery,positive,0.74,support,india - chennai,13.66,enterprise
+330,brightpath college,academic,facilities are average.,3,12/3/2024,yelp,2,service,neutral,0.21,support,sri lanka - colombo,17.6,startup
+331,modaline,clothing,quality is acceptable for the price.,4,5/30/2024,instagram,3,support,neutral,0.21,support,sri lanka - colombo,36.14,sme
+332,fooddash,food delivery,reliable service and accurate orders.,5,5/4/2024,instagram,2,delivery,positive,0.51,quality,sri lanka - kandy,9.65,sme
+333,quickeats,food delivery,easy app to use and good tracking system.,5,11/20/2025,yelp,2,service,positive,0.98,delivery,india - bangalore,22.78,enterprise
+334,urban threads,clothing,sizes were inaccurate and returns were difficult.,1,5/29/2024,yelp,3,support,negative,-0.89,service,india - bangalore,20.59,enterprise
+335,freshmart,supermarket,fresh vegetables and well organized shelves.,5,3/15/2025,appstore,1,delivery,positive,0.72,quality,india - bangalore,5.48,enterprise
+336,grand tandoori,restaurant,"clean place and tasty meals, will visit again.",4,5/21/2025,appstore,3,product,positive,0.67,experience,india - chennai,15.94,enterprise
+337,futurelearn center,academic,course content is fine but could be updated.,4,4/2/2025,facebook,1,product,neutral,-0.09,quality,sri lanka - kandy,32.81,enterprise
+338,nextgen institute,academic,flexible schedules and practical lessons.,4,3/14/2025,appstore,2,delivery,positive,0.75,experience,india - chennai,23.4,enterprise
+339,stylehub,clothing,fabric quality is poor and shrank after washing.,2,9/23/2024,yelp,1,product,negative,-0.85,support,sri lanka - colombo,14.24,sme
+340,skillbridge academy,academic,flexible schedules and practical lessons.,5,4/2/2024,appstore,2,service,positive,0.6,service,sri lanka - colombo,19.9,startup
+341,nextgen institute,academic,great learning environment and useful course materials.,5,11/9/2024,instagram,3,product,positive,0.89,quality,india - chennai,13.24,enterprise
+342,citygrocer,supermarket,store is okay but sometimes crowded.,3,7/28/2025,google,3,delivery,neutral,0.27,experience,sri lanka - kandy,14.31,startup
+343,greenbasket,supermarket,fresh vegetables and well organized shelves.,5,5/14/2024,yelp,2,support,positive,0.86,delivery,sri lanka - kandy,19.88,startup
+344,freshmart,supermarket,fresh vegetables and well organized shelves.,5,6/20/2024,instagram,1,service,positive,0.93,delivery,sri lanka - colombo,31.82,startup
+345,dailyneeds,supermarket,fresh vegetables and well organized shelves.,4,5/30/2025,google,3,delivery,positive,0.91,quality,sri lanka - kandy,25.82,sme
+346,futurelearn center,academic,facilities are average.,4,4/7/2025,facebook,2,service,neutral,0.27,price,sri lanka - kandy,21.21,enterprise
+347,modaline,clothing,clothes feel comfortable and durable.,5,9/4/2024,google,2,service,positive,0.81,experience,sri lanka - kandy,36.9,sme
+348,grand tandoori,restaurant,service was fine but a bit slow during peak hours.,3,5/20/2024,facebook,1,delivery,neutral,0.05,service,sri lanka - kandy,30.51,sme
+349,greenbasket,supermarket,quick billing and helpful staff.,4,4/2/2025,appstore,2,support,positive,0.95,service,sri lanka - kandy,6.56,sme
+350,dailyneeds,supermarket,quick billing and helpful staff.,4,2/9/2024,facebook,1,product,positive,0.95,support,india - chennai,17.14,startup
+351,dailyneeds,supermarket,products are available but prices are average.,3,1/29/2025,instagram,1,service,neutral,0.24,price,india - bangalore,16.63,startup
+352,ocean bites,restaurant,food arrived cold and the service was slow.,1,1/14/2024,appstore,1,product,negative,-0.66,quality,india - bangalore,38.08,sme
+353,urban curry,restaurant,great ambience and quick service. loved the dinner experience.,5,10/12/2025,facebook,2,delivery,positive,0.55,service,india - bangalore,29.16,enterprise
+354,greenbasket,supermarket,fresh vegetables and well organized shelves.,5,10/24/2024,yelp,1,service,positive,0.75,quality,india - chennai,10.21,startup
+355,ocean bites,restaurant,overpriced for the portion size.,2,5/12/2024,yelp,3,support,negative,-0.65,delivery,sri lanka - colombo,8.89,enterprise
+356,modaline,clothing,sizes were inaccurate and returns were difficult.,1,8/2/2025,appstore,2,support,negative,-0.6,experience,sri lanka - colombo,25.03,enterprise
+357,ocean bites,restaurant,"clean place and tasty meals, will visit again.",5,6/2/2025,google,1,service,positive,0.9,quality,sri lanka - kandy,20.31,sme
+358,spice garden,restaurant,authentic flavors and generous portions.,4,4/19/2025,yelp,2,service,positive,0.86,quality,sri lanka - kandy,39.93,enterprise
+359,grand tandoori,restaurant,staff were rude and the place was not clean.,2,1/22/2024,appstore,2,service,negative,-0.75,service,sri lanka - colombo,24.21,enterprise
+360,citygrocer,supermarket,fresh vegetables and well organized shelves.,5,11/17/2025,facebook,1,support,positive,0.81,experience,sri lanka - kandy,21.28,startup
+361,grand tandoori,restaurant,"clean place and tasty meals, will visit again.",4,3/22/2025,instagram,1,support,positive,0.73,experience,india - bangalore,22.47,enterprise
+362,urban threads,clothing,overpriced for low quality material.,1,11/10/2024,appstore,2,service,negative,-0.93,support,sri lanka - kandy,27.48,sme
+363,mealgo,food delivery,reliable service and accurate orders.,4,6/21/2025,yelp,3,product,positive,0.81,support,sri lanka - kandy,33.11,sme
+364,skillbridge academy,academic,flexible schedules and practical lessons.,4,11/10/2025,instagram,2,delivery,positive,0.85,quality,sri lanka - colombo,11.68,startup
+365,modaline,clothing,overpriced for low quality material.,1,12/26/2024,appstore,1,service,negative,-0.77,service,sri lanka - colombo,39.01,enterprise
+366,greenbasket,supermarket,long queues at checkout counters.,1,10/17/2025,instagram,1,support,negative,-1,delivery,india - bangalore,21.69,startup
+367,quickeats,food delivery,reliable service and accurate orders.,4,7/31/2025,instagram,2,service,positive,0.64,price,india - bangalore,23.85,enterprise
+368,speedybite,food delivery,app works fine but nothing impressive.,3,7/16/2024,yelp,1,service,neutral,0.01,experience,sri lanka - kandy,38.42,sme
+369,brightpath college,academic,great learning environment and useful course materials.,4,1/3/2024,facebook,1,support,positive,0.55,service,india - chennai,5.74,startup
+370,mealgo,food delivery,easy app to use and good tracking system.,5,10/6/2025,facebook,1,support,positive,0.83,delivery,sri lanka - colombo,30.73,sme
+371,nextgen institute,academic,teachers explain concepts clearly and provide good support.,4,4/6/2024,appstore,1,delivery,positive,0.77,delivery,india - bangalore,5.99,sme
+372,ocean bites,restaurant,great ambience and quick service. loved the dinner experience.,5,8/24/2024,facebook,1,delivery,positive,0.53,support,india - bangalore,24.46,enterprise
+373,mealgo,food delivery,cold food and poor packaging.,1,8/5/2024,facebook,2,product,negative,-0.57,experience,india - bangalore,14.18,startup
+374,nextgen institute,academic,classes often cancelled without notice.,2,4/23/2024,google,3,support,negative,-0.49,support,sri lanka - colombo,9.76,sme
+375,freshmart,supermarket,long queues at checkout counters.,2,3/18/2025,appstore,1,service,negative,-0.47,delivery,sri lanka - kandy,7.78,enterprise
+376,dailyneeds,supermarket,some items were expired on the shelf.,2,4/24/2024,appstore,1,product,negative,-0.81,experience,sri lanka - kandy,14.26,sme
+377,dailyneeds,supermarket,wide variety of products at good prices.,4,7/13/2024,appstore,1,service,positive,0.83,quality,india - bangalore,10.73,startup
+378,urban curry,restaurant,overpriced for the portion size.,1,9/27/2025,facebook,2,service,negative,-0.71,quality,sri lanka - kandy,12.12,sme
+379,nextgen institute,academic,classes often cancelled without notice.,1,8/10/2025,appstore,2,product,negative,-0.98,support,india - chennai,26.71,startup
+380,spice garden,restaurant,"clean place and tasty meals, will visit again.",4,11/18/2025,yelp,1,service,positive,0.67,delivery,india - chennai,33.86,startup
+381,urban curry,restaurant,food was okay but nothing special.,4,1/29/2025,google,1,delivery,neutral,0.12,support,sri lanka - colombo,32.99,startup
+382,urban curry,restaurant,the food was delicious and the staff were very friendly.,4,1/26/2025,yelp,1,support,positive,0.67,experience,india - chennai,27.12,sme
+383,fooddash,food delivery,app works fine but nothing impressive.,3,1/28/2024,yelp,3,product,neutral,0.01,experience,sri lanka - colombo,33.71,startup
+384,grand tandoori,restaurant,service was fine but a bit slow during peak hours.,3,3/8/2024,instagram,2,delivery,neutral,0.22,quality,india - bangalore,9.83,startup
+385,stylehub,clothing,sizes were inaccurate and returns were difficult.,2,10/1/2025,google,1,product,negative,-0.81,delivery,sri lanka - kandy,10.94,enterprise
+386,urban threads,clothing,good quality fabric and perfect fit.,4,1/29/2025,yelp,1,delivery,positive,0.96,price,sri lanka - kandy,33.22,enterprise
+387,urban curry,restaurant,staff were rude and the place was not clean.,1,4/25/2024,instagram,2,delivery,negative,-0.74,delivery,sri lanka - kandy,18.44,sme
+388,nextgen institute,academic,facilities are average.,4,6/8/2025,instagram,3,delivery,neutral,0.24,delivery,india - chennai,19.36,startup
+389,urban curry,restaurant,authentic flavors and generous portions.,5,10/11/2025,instagram,3,service,positive,0.67,price,sri lanka - kandy,37.94,sme
+390,greenbasket,supermarket,staff not responsive when asking for help.,1,2/23/2024,instagram,2,product,negative,-0.59,price,india - bangalore,11.53,startup
+391,grand tandoori,restaurant,"clean place and tasty meals, will visit again.",4,3/31/2024,yelp,3,service,positive,0.82,quality,sri lanka - colombo,36.68,enterprise
+392,urban threads,clothing,quality is acceptable for the price.,4,10/14/2024,instagram,3,service,neutral,0.05,service,india - chennai,16.88,startup
+393,stylehub,clothing,quality is acceptable for the price.,3,9/30/2024,facebook,2,product,neutral,-0.02,service,india - bangalore,26.21,sme
+394,urban curry,restaurant,great ambience and quick service. loved the dinner experience.,5,3/20/2025,google,2,service,positive,0.67,quality,sri lanka - kandy,38.4,enterprise
+395,futurelearn center,academic,poor communication from administration.,2,10/3/2024,google,1,service,negative,-0.8,support,sri lanka - kandy,17.59,enterprise
+396,mealgo,food delivery,delivery was fast and food arrived hot.,5,11/14/2025,facebook,1,delivery,positive,0.75,experience,sri lanka - colombo,36.97,sme
+397,urban curry,restaurant,the food was delicious and the staff were very friendly.,4,12/4/2024,yelp,3,support,positive,0.51,support,india - chennai,28.93,sme
+398,ocean bites,restaurant,"average taste, reasonable price.",3,7/6/2024,yelp,2,product,neutral,0.1,experience,sri lanka - kandy,32.55,sme
+399,stylehub,clothing,good quality fabric and perfect fit.,5,11/29/2025,google,3,product,positive,0.55,price,india - chennai,24.14,startup
+400,fooddash,food delivery,app crashed while placing order.,1,11/21/2025,yelp,1,support,negative,-0.67,experience,india - chennai,19.76,sme
+401,speedybite,food delivery,easy app to use and good tracking system.,5,11/14/2025,yelp,3,service,positive,0.78,experience,india - bangalore,23.81,enterprise
+402,trendwear,clothing,clothes feel comfortable and durable.,5,2/24/2024,appstore,1,product,positive,0.97,service,sri lanka - kandy,17.22,enterprise
+403,urban threads,clothing,designs are decent but limited options.,3,7/18/2025,google,2,delivery,neutral,0.16,experience,sri lanka - colombo,19.62,startup
+404,stylehub,clothing,trendy designs and affordable prices.,5,3/4/2025,facebook,2,delivery,positive,0.83,delivery,india - chennai,5.9,startup
+405,nextgen institute,academic,flexible schedules and practical lessons.,4,1/4/2025,instagram,3,delivery,positive,0.8,support,sri lanka - colombo,37.82,startup
+406,modaline,clothing,sizes were inaccurate and returns were difficult.,1,10/16/2025,instagram,3,product,negative,-0.82,delivery,india - bangalore,8.25,sme
+407,speedybite,food delivery,app works fine but nothing impressive.,4,5/1/2025,google,1,product,neutral,0.02,support,sri lanka - kandy,28.04,sme
+408,ocean bites,restaurant,authentic flavors and generous portions.,5,6/14/2024,yelp,2,delivery,positive,0.82,experience,india - chennai,17.21,startup
+409,urban curry,restaurant,"clean place and tasty meals, will visit again.",4,1/19/2024,instagram,2,service,positive,0.55,price,sri lanka - colombo,15.16,startup
+410,quickeats,food delivery,order was delayed and items missing.,2,1/23/2025,facebook,3,service,negative,-0.47,service,sri lanka - kandy,10.71,startup
+411,modaline,clothing,good quality fabric and perfect fit.,4,2/2/2024,yelp,1,service,positive,0.93,price,india - chennai,24.51,sme
+412,ocean bites,restaurant,overpriced for the portion size.,2,8/31/2025,google,1,delivery,negative,-0.41,price,india - chennai,17.58,startup
+413,urban curry,restaurant,staff were rude and the place was not clean.,2,7/13/2025,facebook,1,delivery,negative,-0.72,support,sri lanka - kandy,39.33,startup
+414,urban curry,restaurant,great ambience and quick service. loved the dinner experience.,5,7/14/2025,appstore,2,product,positive,0.53,quality,sri lanka - kandy,17.23,sme
+415,trendwear,clothing,quality is acceptable for the price.,4,10/2/2025,google,2,product,neutral,-0.06,experience,sri lanka - colombo,18.06,sme
+416,brightpath college,academic,facilities are average.,3,9/27/2025,facebook,2,delivery,neutral,0.08,price,india - chennai,10.92,enterprise
+417,urban curry,restaurant,food was okay but nothing special.,4,4/6/2025,instagram,2,support,neutral,-0.03,delivery,india - bangalore,28.51,startup
+418,ocean bites,restaurant,staff were rude and the place was not clean.,2,11/18/2024,instagram,2,service,negative,-0.78,delivery,india - chennai,23.11,enterprise
+419,stylehub,clothing,fabric quality is poor and shrank after washing.,2,7/27/2024,google,2,product,negative,-0.48,support,india - chennai,10.67,sme
+420,urban curry,restaurant,"average taste, reasonable price.",4,5/17/2025,google,2,support,neutral,0.14,service,india - bangalore,33.53,startup
+421,skillbridge academy,academic,flexible schedules and practical lessons.,5,9/23/2024,facebook,2,service,positive,0.67,service,sri lanka - kandy,31.94,startup
+422,brightpath college,academic,teachers explain concepts clearly and provide good support.,5,9/27/2024,facebook,3,product,positive,0.56,experience,india - chennai,32.55,enterprise
+423,ocean bites,restaurant,food was okay but nothing special.,4,6/7/2024,google,2,service,neutral,0.26,quality,india - bangalore,17.32,enterprise
+424,futurelearn center,academic,flexible schedules and practical lessons.,4,10/16/2025,appstore,2,delivery,positive,0.64,experience,sri lanka - colombo,29.77,startup
+425,speedybite,food delivery,delivery was fast and food arrived hot.,5,7/29/2024,appstore,2,product,positive,0.77,support,sri lanka - colombo,20.72,sme
+426,nextgen institute,academic,flexible schedules and practical lessons.,4,9/23/2024,appstore,2,support,positive,0.67,price,sri lanka - kandy,27.72,enterprise
+427,urban threads,clothing,designs are decent but limited options.,3,5/28/2025,appstore,2,delivery,neutral,0.18,service,india - chennai,26.28,startup
+428,skillbridge academy,academic,facilities are average.,3,8/21/2025,appstore,3,delivery,neutral,-0.03,price,sri lanka - kandy,36.91,sme
+429,modaline,clothing,quality is acceptable for the price.,3,1/16/2024,appstore,1,product,neutral,0.17,delivery,india - chennai,11.87,sme
+430,freshmart,supermarket,fresh vegetables and well organized shelves.,4,4/4/2025,instagram,1,delivery,positive,0.86,service,sri lanka - colombo,9.08,startup
+431,quickeats,food delivery,cold food and poor packaging.,2,1/15/2024,facebook,2,support,negative,-0.87,delivery,sri lanka - kandy,14.37,startup
+432,nextgen institute,academic,great learning environment and useful course materials.,5,2/28/2025,instagram,1,support,positive,0.86,price,sri lanka - kandy,26.44,startup
+433,skillbridge academy,academic,flexible schedules and practical lessons.,5,11/19/2025,facebook,2,delivery,positive,0.93,service,india - chennai,27.64,startup
+434,speedybite,food delivery,cold food and poor packaging.,1,6/17/2024,google,2,product,negative,-0.91,experience,sri lanka - colombo,26.74,enterprise
+435,urban threads,clothing,clothes feel comfortable and durable.,4,5/30/2024,facebook,1,delivery,positive,0.91,support,india - bangalore,8.93,startup
+436,skillbridge academy,academic,great learning environment and useful course materials.,4,12/1/2024,yelp,2,support,positive,0.98,price,india - chennai,7.67,sme
+437,citygrocer,supermarket,quick billing and helpful staff.,4,9/1/2025,yelp,1,service,positive,0.83,experience,sri lanka - kandy,11.19,sme
+438,skillbridge academy,academic,great learning environment and useful course materials.,5,10/9/2025,google,3,product,positive,0.94,service,sri lanka - kandy,36.03,enterprise
+439,modaline,clothing,clothes feel comfortable and durable.,4,3/8/2024,instagram,2,product,positive,0.75,price,india - bangalore,19.62,startup
+440,quickeats,food delivery,order was delayed and items missing.,1,9/25/2025,facebook,1,service,negative,-0.69,delivery,india - chennai,39.81,startup
+441,brightpath college,academic,teachers explain concepts clearly and provide good support.,4,2/25/2025,instagram,3,service,positive,0.97,experience,sri lanka - colombo,39.31,enterprise
+442,freshmart,supermarket,wide variety of products at good prices.,5,8/2/2024,instagram,2,support,positive,0.65,price,india - bangalore,14.89,startup
+443,urban curry,restaurant,food was okay but nothing special.,3,9/4/2024,appstore,2,delivery,neutral,0.16,delivery,india - chennai,5.71,sme
+444,skillbridge academy,academic,great learning environment and useful course materials.,5,5/25/2025,yelp,3,support,positive,0.51,quality,sri lanka - colombo,13.29,sme
+445,mealgo,food delivery,cold food and poor packaging.,1,9/24/2025,facebook,3,service,negative,-0.85,service,india - bangalore,28.6,enterprise
+446,mealgo,food delivery,delivery time was acceptable.,4,11/16/2025,facebook,1,service,neutral,-0.01,support,sri lanka - colombo,39.92,startup
+447,urban curry,restaurant,"clean place and tasty meals, will visit again.",5,10/8/2024,yelp,1,service,positive,0.55,quality,sri lanka - kandy,7.21,enterprise
+448,citygrocer,supermarket,wide variety of products at good prices.,4,4/16/2025,facebook,1,service,positive,0.71,price,sri lanka - colombo,36.87,sme
+449,trendwear,clothing,overpriced for low quality material.,1,10/7/2025,facebook,1,support,negative,-0.78,delivery,sri lanka - kandy,20.97,enterprise
+450,urban curry,restaurant,overpriced for the portion size.,1,2/22/2024,appstore,1,product,negative,-0.6,price,sri lanka - kandy,11.48,enterprise
+451,brightpath college,academic,facilities are average.,4,7/14/2025,facebook,3,delivery,neutral,-0.06,quality,sri lanka - colombo,22.93,enterprise
+452,fooddash,food delivery,order was delayed and items missing.,2,8/4/2025,yelp,1,delivery,negative,-0.43,service,india - chennai,7.47,enterprise
+453,dailyneeds,supermarket,store is okay but sometimes crowded.,4,3/4/2025,yelp,1,product,neutral,0.28,quality,sri lanka - kandy,21.09,sme
+454,spice garden,restaurant,the food was delicious and the staff were very friendly.,4,11/27/2025,yelp,2,service,positive,0.55,service,india - bangalore,18.48,sme
+455,dailyneeds,supermarket,wide variety of products at good prices.,4,1/28/2025,google,2,product,positive,0.63,experience,sri lanka - kandy,23.31,enterprise
+456,futurelearn center,academic,great learning environment and useful course materials.,4,10/21/2024,google,3,service,positive,0.85,service,sri lanka - colombo,20.96,sme
+457,nextgen institute,academic,outdated materials and unhelpful staff.,1,6/23/2024,instagram,2,support,negative,-0.71,delivery,india - chennai,35.32,sme
+458,ocean bites,restaurant,the food was delicious and the staff were very friendly.,4,2/10/2025,yelp,2,delivery,positive,0.72,service,sri lanka - kandy,5.46,startup
+459,urban curry,restaurant,the food was delicious and the staff were very friendly.,4,4/20/2025,yelp,1,support,positive,0.51,quality,india - bangalore,22.47,startup
+460,mealgo,food delivery,delivery time was acceptable.,3,5/14/2024,appstore,2,product,neutral,0.2,service,india - bangalore,27.23,enterprise
+461,mealgo,food delivery,cold food and poor packaging.,2,11/22/2024,google,2,delivery,negative,-1,service,sri lanka - colombo,37.79,startup
+462,brightpath college,academic,great learning environment and useful course materials.,5,9/27/2024,instagram,3,service,positive,0.95,price,sri lanka - colombo,22.62,startup
+463,trendwear,clothing,fabric quality is poor and shrank after washing.,2,8/8/2025,appstore,2,support,negative,-0.86,price,india - bangalore,36.16,enterprise
+464,mealgo,food delivery,easy app to use and good tracking system.,4,1/18/2025,facebook,1,delivery,positive,0.63,price,india - chennai,11.05,enterprise
+465,spice garden,restaurant,authentic flavors and generous portions.,4,3/24/2024,google,2,support,positive,0.95,support,india - bangalore,35.91,sme
+466,modaline,clothing,fabric quality is poor and shrank after washing.,2,10/16/2024,yelp,1,product,negative,-0.95,delivery,india - bangalore,10.39,sme
+467,modaline,clothing,clothes feel comfortable and durable.,5,8/24/2025,instagram,2,product,positive,0.68,price,india - bangalore,34.68,startup
+468,ocean bites,restaurant,the food was delicious and the staff were very friendly.,5,6/9/2024,facebook,3,support,positive,0.6,quality,india - bangalore,38.81,enterprise
+469,stylehub,clothing,fabric quality is poor and shrank after washing.,1,4/30/2025,yelp,1,support,negative,-0.59,experience,india - chennai,35.82,enterprise
+470,futurelearn center,academic,course content is fine but could be updated.,4,10/18/2025,yelp,2,product,neutral,0.05,support,sri lanka - colombo,7.63,sme
+471,dailyneeds,supermarket,quick billing and helpful staff.,5,2/4/2025,yelp,2,product,positive,0.79,service,india - chennai,8.99,enterprise
+472,brightpath college,academic,outdated materials and unhelpful staff.,2,3/1/2024,google,3,support,negative,-0.8,delivery,india - chennai,33.34,enterprise
+473,mealgo,food delivery,app works fine but nothing impressive.,4,9/25/2024,yelp,1,delivery,neutral,0.04,support,india - chennai,31.75,enterprise
+474,greenbasket,supermarket,store is okay but sometimes crowded.,4,7/7/2024,facebook,2,product,neutral,0.06,delivery,india - chennai,5.95,enterprise
+475,mealgo,food delivery,delivery time was acceptable.,4,12/3/2024,google,2,product,neutral,0.05,quality,india - bangalore,35.52,sme
+476,dailyneeds,supermarket,wide variety of products at good prices.,5,12/18/2024,facebook,2,product,positive,0.74,price,sri lanka - kandy,26.76,enterprise
+477,trendwear,clothing,clothes feel comfortable and durable.,4,1/17/2025,google,3,delivery,positive,0.96,quality,india - chennai,17.04,sme
+478,stylehub,clothing,fabric quality is poor and shrank after washing.,2,4/26/2025,facebook,2,support,negative,-0.63,delivery,sri lanka - colombo,11.42,sme
+479,ocean bites,restaurant,overpriced for the portion size.,1,1/19/2024,facebook,3,delivery,negative,-0.69,support,sri lanka - colombo,25.15,enterprise
+480,skillbridge academy,academic,great learning environment and useful course materials.,5,4/6/2025,facebook,2,delivery,positive,0.78,delivery,india - chennai,38.72,startup
+481,trendwear,clothing,good quality fabric and perfect fit.,4,2/1/2025,instagram,2,service,positive,0.8,support,india - chennai,37.2,enterprise
+482,futurelearn center,academic,poor communication from administration.,2,5/30/2025,instagram,3,product,negative,-0.64,price,sri lanka - colombo,6.7,sme
+483,trendwear,clothing,designs are decent but limited options.,3,10/18/2024,appstore,2,service,neutral,0.1,price,india - bangalore,37.53,enterprise
+484,freshmart,supermarket,some items were expired on the shelf.,2,8/2/2025,yelp,2,delivery,negative,-0.61,delivery,india - chennai,21.13,startup
+485,quickeats,food delivery,easy app to use and good tracking system.,5,4/17/2024,appstore,1,delivery,positive,0.71,service,india - chennai,33.67,sme
+486,dailyneeds,supermarket,products are available but prices are average.,3,2/2/2024,appstore,1,product,neutral,0.01,experience,sri lanka - colombo,14.68,sme
+487,ocean bites,restaurant,authentic flavors and generous portions.,4,7/26/2025,instagram,1,service,positive,0.59,experience,india - bangalore,29.2,startup
+488,greenbasket,supermarket,long queues at checkout counters.,2,11/23/2025,google,3,service,negative,-0.41,delivery,india - chennai,13.13,enterprise
+489,quickeats,food delivery,app works fine but nothing impressive.,3,12/16/2024,facebook,3,service,neutral,0.03,delivery,india - chennai,39.5,enterprise
+490,brightpath college,academic,flexible schedules and practical lessons.,4,2/21/2024,google,1,service,positive,0.7,quality,sri lanka - kandy,31.19,enterprise
+491,brightpath college,academic,poor communication from administration.,1,8/5/2025,instagram,1,service,negative,-0.57,quality,india - bangalore,31.95,sme
+492,fooddash,food delivery,order was delayed and items missing.,2,11/25/2024,google,1,product,negative,-0.41,delivery,sri lanka - kandy,39.38,sme
+493,speedybite,food delivery,easy app to use and good tracking system.,4,10/5/2025,google,2,support,positive,0.68,quality,sri lanka - colombo,25.17,sme
+494,brightpath college,academic,great learning environment and useful course materials.,4,8/8/2024,yelp,2,delivery,positive,0.6,price,sri lanka - kandy,21.9,sme
+495,quickeats,food delivery,delivery was fast and food arrived hot.,4,1/22/2024,yelp,1,service,positive,0.71,service,sri lanka - colombo,23.37,sme
+496,trendwear,clothing,trendy designs and affordable prices.,4,3/5/2025,yelp,1,delivery,positive,0.55,support,sri lanka - kandy,5.57,startup
+497,skillbridge academy,academic,facilities are average.,3,6/2/2024,yelp,1,product,neutral,0.23,service,sri lanka - kandy,21.09,enterprise
+498,futurelearn center,academic,teachers explain concepts clearly and provide good support.,4,3/11/2024,yelp,1,delivery,positive,0.98,price,india - chennai,26.63,sme
+499,nextgen institute,academic,great learning environment and useful course materials.,4,8/1/2025,facebook,3,support,positive,0.65,service,sri lanka - colombo,25.76,sme
+500,citygrocer,supermarket,products are available but prices are average.,4,2/27/2024,yelp,1,support,neutral,-0.05,delivery,india - bangalore,18.82,sme
+501,greenbasket,supermarket,store is okay but sometimes crowded.,3,11/25/2025,google,3,product,neutral,0.26,service,india - bangalore,26.43,sme
+502,spice garden,restaurant,the food was delicious and the staff were very friendly.,5,4/27/2024,appstore,2,service,positive,0.79,quality,sri lanka - kandy,35.57,startup
+503,stylehub,clothing,clothes feel comfortable and durable.,5,11/15/2024,yelp,1,support,positive,0.9,delivery,india - bangalore,23.14,sme
+504,citygrocer,supermarket,staff not responsive when asking for help.,2,3/31/2024,appstore,3,service,negative,-0.43,quality,sri lanka - colombo,23.87,sme
+505,grand tandoori,restaurant,staff were rude and the place was not clean.,1,5/1/2025,google,3,support,negative,-0.99,support,india - bangalore,16.14,startup
+506,futurelearn center,academic,outdated materials and unhelpful staff.,1,5/27/2024,yelp,2,product,negative,-0.99,quality,india - chennai,31.05,sme
+507,trendwear,clothing,clothes feel comfortable and durable.,5,2/9/2024,facebook,2,service,positive,0.61,experience,sri lanka - kandy,10.28,enterprise
+508,freshmart,supermarket,some items were expired on the shelf.,2,10/16/2025,instagram,2,support,negative,-0.82,price,india - chennai,11.45,sme
+509,trendwear,clothing,sizes were inaccurate and returns were difficult.,1,2/4/2024,google,1,product,negative,-0.85,service,sri lanka - kandy,35.74,enterprise
+510,futurelearn center,academic,flexible schedules and practical lessons.,4,4/21/2025,appstore,2,service,positive,0.91,support,india - bangalore,18.67,enterprise
+511,nextgen institute,academic,flexible schedules and practical lessons.,4,1/11/2025,yelp,1,delivery,positive,0.94,service,india - chennai,27.71,sme
+512,greenbasket,supermarket,products are available but prices are average.,4,8/16/2024,yelp,2,product,neutral,-0.09,experience,sri lanka - colombo,15.77,startup
+513,trendwear,clothing,designs are decent but limited options.,4,3/8/2025,instagram,1,service,neutral,0.18,delivery,india - bangalore,6.25,sme
+514,stylehub,clothing,good quality fabric and perfect fit.,4,6/7/2025,google,3,service,positive,0.62,experience,india - chennai,26.58,sme
+515,ocean bites,restaurant,authentic flavors and generous portions.,5,7/9/2025,yelp,2,support,positive,0.68,experience,india - chennai,36.71,startup
+516,greenbasket,supermarket,quick billing and helpful staff.,5,2/29/2024,instagram,3,service,positive,0.79,price,india - chennai,16.16,startup
+517,nextgen institute,academic,course content is fine but could be updated.,4,11/7/2025,google,3,service,neutral,-0.03,price,sri lanka - kandy,33.96,startup
+518,ocean bites,restaurant,food arrived cold and the service was slow.,1,1/23/2024,yelp,2,product,negative,-0.87,delivery,india - bangalore,24.3,sme
+519,grand tandoori,restaurant,great ambience and quick service. loved the dinner experience.,4,6/4/2025,facebook,2,product,positive,0.84,support,india - bangalore,21.51,startup
+520,freshmart,supermarket,fresh vegetables and well organized shelves.,4,3/15/2025,appstore,1,service,positive,0.59,delivery,sri lanka - kandy,14.14,sme
+521,trendwear,clothing,sizes were inaccurate and returns were difficult.,2,7/26/2024,yelp,2,delivery,negative,-0.49,delivery,india - bangalore,23.98,startup
+522,futurelearn center,academic,outdated materials and unhelpful staff.,1,4/14/2024,instagram,3,support,negative,-0.74,price,sri lanka - kandy,6.69,startup
+523,brightpath college,academic,great learning environment and useful course materials.,4,1/16/2025,google,2,delivery,positive,0.95,service,india - chennai,30.05,sme
+524,futurelearn center,academic,course content is fine but could be updated.,3,10/3/2024,yelp,1,delivery,neutral,0.2,quality,sri lanka - colombo,18.58,startup
+525,skillbridge academy,academic,outdated materials and unhelpful staff.,2,2/3/2024,google,3,service,negative,-0.97,delivery,sri lanka - colombo,35.66,sme
+526,futurelearn center,academic,great learning environment and useful course materials.,5,8/6/2025,instagram,1,delivery,positive,0.55,support,india - chennai,29.55,sme
+527,mealgo,food delivery,order was delayed and items missing.,1,12/28/2024,google,2,service,negative,-0.53,experience,india - bangalore,17.07,enterprise
+528,nextgen institute,academic,teachers explain concepts clearly and provide good support.,5,4/14/2025,instagram,3,delivery,positive,0.92,service,sri lanka - colombo,33.32,enterprise
+529,trendwear,clothing,good quality fabric and perfect fit.,5,5/7/2024,facebook,1,support,positive,0.94,support,sri lanka - colombo,13.5,startup
+530,freshmart,supermarket,fresh vegetables and well organized shelves.,4,11/4/2025,appstore,3,product,positive,0.72,price,india - bangalore,25.31,enterprise
+531,greenbasket,supermarket,some items were expired on the shelf.,1,7/15/2025,yelp,2,support,negative,-0.95,support,sri lanka - kandy,37.76,enterprise
+532,ocean bites,restaurant,"clean place and tasty meals, will visit again.",4,4/6/2024,google,2,support,positive,0.78,support,sri lanka - colombo,8.97,enterprise
+533,spice garden,restaurant,"clean place and tasty meals, will visit again.",5,7/26/2024,appstore,3,service,positive,0.67,support,india - bangalore,12.28,sme
+534,stylehub,clothing,good quality fabric and perfect fit.,4,11/25/2025,google,1,product,positive,0.63,experience,india - chennai,36.62,enterprise
+535,mealgo,food delivery,app crashed while placing order.,2,10/9/2025,instagram,2,delivery,negative,-0.76,delivery,india - chennai,36.91,enterprise
+536,speedybite,food delivery,delivery time was acceptable.,4,11/19/2025,instagram,2,service,neutral,0.25,experience,sri lanka - kandy,32.86,enterprise
+537,brightpath college,academic,teachers explain concepts clearly and provide good support.,4,6/11/2025,yelp,1,delivery,positive,0.84,quality,india - chennai,23.15,enterprise
+538,grand tandoori,restaurant,staff were rude and the place was not clean.,2,1/13/2024,yelp,1,product,negative,-0.53,support,india - bangalore,18.75,sme
+539,dailyneeds,supermarket,wide variety of products at good prices.,4,8/26/2025,instagram,3,product,positive,0.64,service,india - bangalore,7.8,enterprise
+540,spice garden,restaurant,overpriced for the portion size.,2,12/27/2024,facebook,2,product,negative,-0.96,delivery,sri lanka - kandy,25.95,enterprise
+541,greenbasket,supermarket,quick billing and helpful staff.,4,6/13/2024,google,3,delivery,positive,0.82,support,india - chennai,17.02,sme
+542,stylehub,clothing,designs are decent but limited options.,4,1/12/2024,google,2,delivery,neutral,0.06,price,india - bangalore,10.16,enterprise
+543,skillbridge academy,academic,poor communication from administration.,1,10/7/2025,instagram,2,service,negative,-0.49,price,sri lanka - colombo,36.87,startup
+544,freshmart,supermarket,fresh vegetables and well organized shelves.,5,3/17/2024,yelp,3,delivery,positive,0.5,support,india - chennai,38.13,sme
+545,nextgen institute,academic,facilities are average.,3,7/15/2025,yelp,1,product,neutral,0.02,quality,sri lanka - kandy,21.51,startup
+546,urban threads,clothing,trendy designs and affordable prices.,5,5/9/2024,google,1,service,positive,0.58,experience,india - chennai,8.04,sme
+547,modaline,clothing,overpriced for low quality material.,2,2/13/2025,yelp,3,product,negative,-0.49,quality,india - bangalore,37.16,enterprise
+548,quickeats,food delivery,reliable service and accurate orders.,5,4/28/2025,google,2,product,positive,0.79,service,india - chennai,27.73,sme
+549,futurelearn center,academic,course content is fine but could be updated.,4,3/13/2025,instagram,3,product,neutral,-0.04,support,sri lanka - colombo,10.17,sme
+550,citygrocer,supermarket,staff not responsive when asking for help.,1,7/2/2025,instagram,3,service,negative,-0.55,price,sri lanka - kandy,39.37,sme
+551,greenbasket,supermarket,wide variety of products at good prices.,4,8/11/2025,appstore,1,product,positive,0.99,delivery,india - chennai,38.07,sme
+552,dailyneeds,supermarket,products are available but prices are average.,4,10/1/2024,appstore,1,support,neutral,-0.03,price,india - chennai,15.11,enterprise
+553,skillbridge academy,academic,course content is fine but could be updated.,4,4/5/2025,yelp,3,product,neutral,-0.1,support,india - bangalore,37.31,enterprise
+554,citygrocer,supermarket,staff not responsive when asking for help.,1,7/26/2024,facebook,1,product,negative,-0.7,quality,sri lanka - colombo,5.15,startup
+555,urban threads,clothing,good quality fabric and perfect fit.,5,11/21/2024,google,2,delivery,positive,0.55,price,india - chennai,7.67,enterprise
+556,urban curry,restaurant,the food was delicious and the staff were very friendly.,5,8/16/2025,yelp,1,delivery,positive,0.77,delivery,india - bangalore,11.88,startup
+557,trendwear,clothing,overpriced for low quality material.,1,4/14/2024,instagram,2,support,negative,-0.51,price,india - chennai,33.99,enterprise
+558,futurelearn center,academic,great learning environment and useful course materials.,4,2/11/2024,google,3,support,positive,0.61,experience,sri lanka - colombo,16.95,sme
+559,futurelearn center,academic,poor communication from administration.,1,6/13/2025,instagram,1,service,negative,-0.94,support,sri lanka - kandy,27.08,sme
+560,brightpath college,academic,great learning environment and useful course materials.,4,6/4/2024,appstore,2,delivery,positive,0.73,price,sri lanka - colombo,29.77,sme
+561,stylehub,clothing,designs are decent but limited options.,4,6/1/2025,yelp,2,product,neutral,-0.07,support,india - chennai,27.33,sme
+562,urban curry,restaurant,staff were rude and the place was not clean.,1,1/5/2024,appstore,3,product,negative,-0.9,support,india - chennai,27.39,startup
+563,speedybite,food delivery,easy app to use and good tracking system.,5,7/21/2024,appstore,2,service,positive,0.82,service,india - chennai,28.56,sme
+564,speedybite,food delivery,easy app to use and good tracking system.,4,11/3/2025,appstore,1,support,positive,0.56,service,sri lanka - colombo,14.67,startup
+565,nextgen institute,academic,facilities are average.,4,5/1/2025,instagram,3,product,neutral,0.08,support,sri lanka - colombo,9.18,startup
+566,mealgo,food delivery,delivery time was acceptable.,3,4/24/2025,yelp,3,product,neutral,-0.06,experience,india - bangalore,32.76,sme
+567,urban curry,restaurant,authentic flavors and generous portions.,4,7/20/2025,google,3,support,positive,0.89,experience,sri lanka - kandy,22.3,enterprise
+568,brightpath college,academic,course content is fine but could be updated.,4,9/9/2025,yelp,2,support,neutral,0.16,delivery,india - chennai,38.8,sme
+569,fooddash,food delivery,order was delayed and items missing.,1,1/15/2025,yelp,1,support,negative,-0.41,price,india - bangalore,25.43,startup
+570,citygrocer,supermarket,store is okay but sometimes crowded.,3,8/18/2025,appstore,2,service,neutral,0.11,price,india - bangalore,37.87,sme
+571,modaline,clothing,quality is acceptable for the price.,3,9/28/2025,facebook,1,service,neutral,0.09,delivery,india - bangalore,30.04,sme
+572,trendwear,clothing,quality is acceptable for the price.,3,10/12/2024,google,2,support,neutral,0.23,service,india - chennai,11.04,startup
+573,spice garden,restaurant,authentic flavors and generous portions.,4,5/11/2025,facebook,2,delivery,positive,0.7,quality,india - bangalore,29.72,enterprise
+574,citygrocer,supermarket,quick billing and helpful staff.,5,1/16/2025,instagram,3,delivery,positive,0.76,price,sri lanka - kandy,37.68,startup
+575,dailyneeds,supermarket,wide variety of products at good prices.,5,7/20/2025,facebook,2,delivery,positive,0.62,support,sri lanka - colombo,9.47,sme
+576,urban threads,clothing,trendy designs and affordable prices.,5,7/22/2025,yelp,3,product,positive,0.73,service,sri lanka - kandy,32.46,enterprise
+577,trendwear,clothing,fabric quality is poor and shrank after washing.,2,1/4/2025,instagram,2,service,negative,-0.92,experience,sri lanka - colombo,5.79,enterprise
+578,fooddash,food delivery,cold food and poor packaging.,2,11/30/2025,google,2,support,negative,-0.63,price,sri lanka - kandy,21.39,enterprise
+579,futurelearn center,academic,course content is fine but could be updated.,4,11/18/2024,appstore,3,support,neutral,0.17,price,sri lanka - kandy,13.82,startup
+580,trendwear,clothing,overpriced for low quality material.,1,8/7/2024,instagram,2,service,negative,-0.58,experience,sri lanka - kandy,33.48,startup
+581,quickeats,food delivery,app works fine but nothing impressive.,3,9/15/2024,facebook,3,support,neutral,0.01,service,sri lanka - colombo,38.6,startup
+582,dailyneeds,supermarket,some items were expired on the shelf.,1,5/23/2025,facebook,1,service,negative,-0.6,delivery,sri lanka - kandy,8.53,enterprise
+583,freshmart,supermarket,some items were expired on the shelf.,2,10/13/2024,facebook,3,product,negative,-0.97,quality,sri lanka - kandy,35.17,startup
+584,speedybite,food delivery,reliable service and accurate orders.,4,7/28/2025,google,1,delivery,positive,0.85,quality,sri lanka - colombo,6.69,startup
+585,fooddash,food delivery,delivery was fast and food arrived hot.,5,2/8/2024,yelp,3,service,positive,0.56,experience,india - chennai,15.08,startup
+586,skillbridge academy,academic,flexible schedules and practical lessons.,4,5/13/2025,google,2,product,positive,0.62,experience,india - bangalore,20.79,sme
+587,brightpath college,academic,facilities are average.,4,2/7/2025,facebook,1,delivery,neutral,0.2,support,india - bangalore,9.79,sme
+588,mealgo,food delivery,order was delayed and items missing.,1,8/30/2025,yelp,3,product,negative,-0.8,support,sri lanka - kandy,27.23,sme
+589,ocean bites,restaurant,great ambience and quick service. loved the dinner experience.,4,4/28/2024,appstore,1,product,positive,0.84,experience,india - bangalore,36.68,sme
+590,trendwear,clothing,fabric quality is poor and shrank after washing.,2,3/15/2025,google,2,product,negative,-0.92,service,india - bangalore,12.72,startup
+591,ocean bites,restaurant,overpriced for the portion size.,1,10/12/2025,instagram,2,delivery,negative,-0.82,experience,india - chennai,9.8,sme
+592,futurelearn center,academic,course content is fine but could be updated.,4,11/2/2024,appstore,2,support,neutral,-0.08,support,india - chennai,13.77,enterprise
+593,speedybite,food delivery,delivery was fast and food arrived hot.,5,2/3/2025,google,3,support,positive,0.94,quality,india - bangalore,34.74,enterprise
+594,greenbasket,supermarket,fresh vegetables and well organized shelves.,4,1/7/2024,appstore,1,delivery,positive,0.74,delivery,sri lanka - colombo,21.76,startup
+595,grand tandoori,restaurant,great ambience and quick service. loved the dinner experience.,4,9/17/2024,google,1,delivery,positive,0.68,quality,india - chennai,29.48,startup
+596,mealgo,food delivery,order was delayed and items missing.,2,5/16/2025,yelp,2,support,negative,-0.88,quality,sri lanka - colombo,19.39,enterprise
+597,grand tandoori,restaurant,food was okay but nothing special.,4,3/4/2025,google,1,service,neutral,0.1,delivery,india - bangalore,32.15,sme
+598,spice garden,restaurant,"clean place and tasty meals, will visit again.",5,5/5/2024,google,3,service,positive,0.63,quality,sri lanka - colombo,35.84,enterprise
+599,brightpath college,academic,flexible schedules and practical lessons.,4,4/8/2024,google,3,product,positive,0.74,quality,india - chennai,26.72,enterprise
+600,dailyneeds,supermarket,long queues at checkout counters.,1,10/27/2024,instagram,3,support,negative,-0.58,support,india - chennai,23.45,enterprise
+601,stylehub,clothing,trendy designs and affordable prices.,5,4/19/2024,instagram,3,service,positive,0.9,delivery,sri lanka - kandy,15.07,sme
+602,trendwear,clothing,clothes feel comfortable and durable.,5,1/5/2025,appstore,2,product,positive,0.56,service,india - bangalore,22.67,sme
+603,skillbridge academy,academic,poor communication from administration.,1,2/24/2024,appstore,1,product,negative,-0.78,experience,india - bangalore,28.4,startup
+604,urban curry,restaurant,great ambience and quick service. loved the dinner experience.,5,12/14/2024,google,1,service,positive,0.66,price,india - bangalore,39.46,startup
+605,ocean bites,restaurant,staff were rude and the place was not clean.,2,12/21/2024,yelp,3,support,negative,-0.5,service,india - chennai,13.44,sme
+606,greenbasket,supermarket,long queues at checkout counters.,1,3/1/2024,yelp,1,delivery,negative,-0.61,service,sri lanka - kandy,17.4,sme
+607,urban threads,clothing,quality is acceptable for the price.,4,9/5/2025,facebook,2,support,neutral,0.02,delivery,sri lanka - kandy,21.49,enterprise
+608,futurelearn center,academic,great learning environment and useful course materials.,5,2/27/2024,instagram,2,product,positive,0.78,delivery,india - bangalore,6.02,startup
+609,skillbridge academy,academic,classes often cancelled without notice.,1,11/15/2024,yelp,2,support,negative,-0.9,delivery,india - bangalore,16.38,sme
+610,speedybite,food delivery,order was delayed and items missing.,2,3/7/2024,facebook,2,delivery,negative,-0.72,experience,sri lanka - colombo,22.5,sme
+611,stylehub,clothing,overpriced for low quality material.,1,10/20/2025,instagram,1,product,negative,-0.66,price,india - bangalore,30.51,sme
+612,nextgen institute,academic,course content is fine but could be updated.,3,3/4/2024,google,2,delivery,neutral,0.06,experience,india - chennai,10.01,enterprise
+613,grand tandoori,restaurant,overpriced for the portion size.,2,1/22/2024,facebook,2,service,negative,-0.45,experience,india - chennai,29.93,enterprise
+614,urban curry,restaurant,great ambience and quick service. loved the dinner experience.,4,6/23/2025,google,3,delivery,positive,0.97,experience,india - bangalore,10.6,startup
+615,stylehub,clothing,designs are decent but limited options.,3,2/22/2024,google,3,support,neutral,-0.09,quality,sri lanka - colombo,18.46,sme
+616,dailyneeds,supermarket,store is okay but sometimes crowded.,3,12/9/2024,google,3,support,neutral,0.11,experience,sri lanka - kandy,15.46,sme
+617,nextgen institute,academic,classes often cancelled without notice.,2,7/1/2025,instagram,3,support,negative,-1,price,sri lanka - kandy,26.72,startup
+618,futurelearn center,academic,outdated materials and unhelpful staff.,2,3/30/2024,yelp,1,support,negative,-0.46,support,sri lanka - colombo,27.35,enterprise
+619,grand tandoori,restaurant,food arrived cold and the service was slow.,1,2/16/2025,instagram,2,support,negative,-0.61,delivery,sri lanka - kandy,19.59,startup
+620,modaline,clothing,designs are decent but limited options.,3,11/5/2024,instagram,1,delivery,neutral,0.06,price,sri lanka - colombo,10.72,sme
+621,nextgen institute,academic,course content is fine but could be updated.,3,9/9/2025,instagram,3,support,neutral,0.16,quality,sri lanka - kandy,8.86,enterprise
+622,futurelearn center,academic,teachers explain concepts clearly and provide good support.,4,11/1/2025,appstore,3,support,positive,0.63,price,india - bangalore,11.64,enterprise
+623,greenbasket,supermarket,wide variety of products at good prices.,4,2/28/2024,yelp,2,service,positive,0.81,support,sri lanka - kandy,30.19,enterprise
+624,grand tandoori,restaurant,staff were rude and the place was not clean.,2,4/5/2025,yelp,3,service,negative,-0.45,experience,sri lanka - colombo,29.84,enterprise
+625,nextgen institute,academic,classes often cancelled without notice.,1,8/5/2024,google,1,service,negative,-0.44,service,sri lanka - kandy,8.19,enterprise
+626,brightpath college,academic,outdated materials and unhelpful staff.,2,5/13/2025,appstore,2,service,negative,-0.48,quality,india - bangalore,7.07,startup
+627,skillbridge academy,academic,flexible schedules and practical lessons.,4,5/17/2024,google,2,service,positive,0.74,price,sri lanka - colombo,12.92,enterprise
+628,quickeats,food delivery,app works fine but nothing impressive.,3,11/13/2024,facebook,2,product,neutral,0.06,quality,india - chennai,26.29,enterprise
+629,mealgo,food delivery,app works fine but nothing impressive.,4,7/24/2024,instagram,1,service,neutral,-0.03,support,india - chennai,20.82,startup
+630,spice garden,restaurant,great ambience and quick service. loved the dinner experience.,4,11/18/2025,instagram,3,delivery,positive,0.82,experience,india - chennai,6.81,startup
+631,brightpath college,academic,poor communication from administration.,2,2/13/2024,yelp,3,product,negative,-0.73,price,india - bangalore,10.53,startup
+632,trendwear,clothing,designs are decent but limited options.,3,8/23/2025,yelp,1,support,neutral,0.15,price,india - bangalore,36.22,enterprise
+633,nextgen institute,academic,teachers explain concepts clearly and provide good support.,4,6/16/2025,appstore,2,product,positive,0.57,delivery,sri lanka - colombo,21.43,sme
+634,futurelearn center,academic,great learning environment and useful course materials.,4,12/12/2024,google,2,support,positive,0.78,price,sri lanka - kandy,35.98,sme
+635,greenbasket,supermarket,some items were expired on the shelf.,2,1/20/2025,instagram,2,delivery,negative,-0.65,price,india - bangalore,17.05,enterprise
+636,modaline,clothing,quality is acceptable for the price.,3,10/2/2024,google,3,support,neutral,0.22,delivery,india - bangalore,7.04,startup
+637,urban threads,clothing,clothes feel comfortable and durable.,4,5/6/2024,yelp,1,support,positive,0.93,quality,sri lanka - colombo,22.47,sme
+638,citygrocer,supermarket,wide variety of products at good prices.,4,7/20/2024,facebook,3,product,positive,0.53,support,india - chennai,31.15,enterprise
+639,mealgo,food delivery,easy app to use and good tracking system.,5,2/14/2024,google,2,product,positive,0.85,quality,india - bangalore,7.03,startup
+640,urban curry,restaurant,overpriced for the portion size.,1,4/18/2024,facebook,2,delivery,negative,-0.94,delivery,india - bangalore,9.68,startup
+641,urban curry,restaurant,service was fine but a bit slow during peak hours.,3,4/19/2025,facebook,3,support,neutral,0,support,sri lanka - kandy,32.25,enterprise
+642,ocean bites,restaurant,overpriced for the portion size.,2,11/26/2025,facebook,3,support,negative,-0.92,delivery,india - bangalore,23.81,startup
+643,urban curry,restaurant,the food was delicious and the staff were very friendly.,4,1/27/2025,google,1,delivery,positive,0.65,quality,india - bangalore,14.65,startup
+644,skillbridge academy,academic,flexible schedules and practical lessons.,5,5/7/2025,instagram,2,delivery,positive,0.95,service,sri lanka - kandy,29.45,enterprise
+645,citygrocer,supermarket,products are available but prices are average.,4,2/26/2024,instagram,2,product,neutral,0.1,service,sri lanka - kandy,25.7,startup
+646,urban threads,clothing,good quality fabric and perfect fit.,4,3/24/2024,instagram,2,support,positive,0.71,delivery,sri lanka - kandy,27.69,sme
+647,fooddash,food delivery,order was delayed and items missing.,2,5/27/2024,facebook,3,delivery,negative,-0.87,price,india - chennai,39.98,enterprise
+648,urban curry,restaurant,authentic flavors and generous portions.,5,3/11/2024,yelp,2,service,positive,0.87,support,india - bangalore,14.12,enterprise
+649,ocean bites,restaurant,great ambience and quick service. loved the dinner experience.,4,11/2/2025,yelp,1,product,positive,0.85,experience,india - chennai,20.81,sme
+650,dailyneeds,supermarket,wide variety of products at good prices.,5,1/24/2025,appstore,1,service,positive,0.92,experience,sri lanka - colombo,26.71,enterprise
+651,nextgen institute,academic,teachers explain concepts clearly and provide good support.,5,2/25/2024,facebook,3,product,positive,0.8,quality,sri lanka - kandy,29.47,enterprise
+652,speedybite,food delivery,delivery was fast and food arrived hot.,5,4/11/2024,google,3,delivery,positive,1,price,sri lanka - colombo,37.35,sme
+653,ocean bites,restaurant,food arrived cold and the service was slow.,2,1/27/2024,instagram,3,service,negative,-0.67,service,india - chennai,13.33,startup
+654,modaline,clothing,fabric quality is poor and shrank after washing.,1,8/11/2025,facebook,1,support,negative,-0.48,support,india - bangalore,30.95,enterprise
+655,urban curry,restaurant,great ambience and quick service. loved the dinner experience.,5,6/23/2024,google,2,support,positive,0.76,support,india - bangalore,19.67,sme
+656,spice garden,restaurant,"clean place and tasty meals, will visit again.",4,6/28/2025,appstore,2,delivery,positive,0.83,delivery,india - chennai,31.73,enterprise
+657,dailyneeds,supermarket,quick billing and helpful staff.,4,8/12/2025,yelp,2,support,positive,0.63,support,sri lanka - kandy,38.06,startup
+658,spice garden,restaurant,the food was delicious and the staff were very friendly.,4,7/20/2024,yelp,1,product,positive,0.82,experience,sri lanka - kandy,19.25,startup
+659,futurelearn center,academic,flexible schedules and practical lessons.,4,9/19/2025,instagram,2,support,positive,0.89,price,india - bangalore,37.9,enterprise
+660,futurelearn center,academic,teachers explain concepts clearly and provide good support.,5,1/31/2024,facebook,1,service,positive,0.65,service,india - chennai,8.87,startup
+661,grand tandoori,restaurant,staff were rude and the place was not clean.,2,10/15/2024,google,1,delivery,negative,-0.71,service,india - bangalore,8.13,enterprise
+662,greenbasket,supermarket,some items were expired on the shelf.,2,9/4/2025,yelp,1,support,negative,-0.43,experience,india - chennai,25.66,sme
+663,dailyneeds,supermarket,staff not responsive when asking for help.,2,11/28/2024,instagram,2,support,negative,-0.44,price,india - chennai,33.46,enterprise
+664,spice garden,restaurant,authentic flavors and generous portions.,5,3/20/2025,google,3,delivery,positive,0.84,experience,india - bangalore,20.83,sme
+665,modaline,clothing,designs are decent but limited options.,3,5/8/2025,google,2,delivery,neutral,-0.05,support,india - bangalore,9.26,sme
+666,spice garden,restaurant,overpriced for the portion size.,2,5/5/2025,yelp,3,product,negative,-0.97,price,india - bangalore,13.98,sme
+667,spice garden,restaurant,food was okay but nothing special.,3,12/31/2024,appstore,2,service,neutral,0.1,price,sri lanka - kandy,34.51,enterprise
+668,nextgen institute,academic,flexible schedules and practical lessons.,4,9/4/2025,google,2,service,positive,0.55,service,india - bangalore,36.83,sme
+669,brightpath college,academic,course content is fine but could be updated.,4,9/8/2025,facebook,3,support,neutral,0.2,service,india - bangalore,9.1,enterprise
+670,dailyneeds,supermarket,wide variety of products at good prices.,5,7/11/2024,google,1,support,positive,0.55,quality,india - chennai,34.69,sme
+671,fooddash,food delivery,delivery was fast and food arrived hot.,4,7/6/2024,facebook,3,product,positive,0.96,price,sri lanka - kandy,25.26,sme
+672,brightpath college,academic,great learning environment and useful course materials.,4,11/23/2025,yelp,3,delivery,positive,0.67,delivery,sri lanka - kandy,12.54,enterprise
+673,speedybite,food delivery,easy app to use and good tracking system.,5,1/12/2024,google,2,product,positive,0.76,price,sri lanka - colombo,30.5,sme
+674,nextgen institute,academic,facilities are average.,4,7/20/2025,instagram,2,product,neutral,-0.02,service,sri lanka - colombo,12.91,startup
+675,dailyneeds,supermarket,store is okay but sometimes crowded.,3,10/1/2025,google,3,product,neutral,0.16,price,india - chennai,38.58,sme
+676,futurelearn center,academic,flexible schedules and practical lessons.,4,4/21/2024,yelp,2,delivery,positive,0.63,experience,sri lanka - kandy,13.87,startup
+677,urban threads,clothing,clothes feel comfortable and durable.,4,3/31/2024,instagram,1,service,positive,0.92,support,sri lanka - colombo,25.13,startup
+678,stylehub,clothing,clothes feel comfortable and durable.,5,2/26/2025,google,2,delivery,positive,0.69,price,sri lanka - kandy,6.27,enterprise
+679,quickeats,food delivery,delivery was fast and food arrived hot.,5,8/23/2024,facebook,1,delivery,positive,0.75,service,india - bangalore,25.02,sme
+680,speedybite,food delivery,order was delayed and items missing.,1,3/25/2025,facebook,3,delivery,negative,-0.76,price,sri lanka - colombo,24.18,sme
+681,citygrocer,supermarket,fresh vegetables and well organized shelves.,5,9/28/2025,appstore,3,delivery,positive,0.93,price,sri lanka - colombo,35.5,enterprise
+682,trendwear,clothing,good quality fabric and perfect fit.,5,9/24/2024,facebook,2,product,positive,0.85,quality,sri lanka - kandy,17.51,startup
+683,nextgen institute,academic,facilities are average.,3,9/28/2025,instagram,1,product,neutral,0.09,service,sri lanka - kandy,29.15,sme
+684,fooddash,food delivery,reliable service and accurate orders.,4,1/14/2024,google,2,product,positive,0.92,quality,india - chennai,25.21,sme
+685,mealgo,food delivery,app works fine but nothing impressive.,3,9/22/2024,instagram,3,product,neutral,0.16,delivery,india - chennai,8.21,sme
+686,fooddash,food delivery,delivery was fast and food arrived hot.,4,9/24/2025,yelp,1,service,positive,0.73,support,india - bangalore,23.02,startup
+687,grand tandoori,restaurant,food arrived cold and the service was slow.,2,6/16/2025,yelp,2,delivery,negative,-0.96,delivery,sri lanka - kandy,24.12,enterprise
+688,fooddash,food delivery,easy app to use and good tracking system.,4,7/9/2025,instagram,2,product,positive,0.73,price,india - chennai,38.87,enterprise
+689,ocean bites,restaurant,staff were rude and the place was not clean.,1,1/10/2025,instagram,3,service,negative,-0.63,service,india - chennai,7.7,sme
+690,citygrocer,supermarket,quick billing and helpful staff.,4,8/7/2024,google,3,service,positive,0.93,quality,sri lanka - kandy,18.99,sme
+691,quickeats,food delivery,order was delayed and items missing.,1,6/30/2025,instagram,3,product,negative,-0.45,support,india - chennai,24.01,sme
+692,modaline,clothing,trendy designs and affordable prices.,5,5/5/2025,google,2,product,positive,0.86,delivery,sri lanka - kandy,14.75,sme
+693,urban curry,restaurant,service was fine but a bit slow during peak hours.,3,4/12/2024,yelp,2,product,neutral,0.07,quality,sri lanka - colombo,7.27,enterprise
+694,freshmart,supermarket,some items were expired on the shelf.,1,8/21/2025,yelp,3,delivery,negative,-0.59,price,sri lanka - colombo,35.38,sme
+695,brightpath college,academic,outdated materials and unhelpful staff.,1,9/16/2025,instagram,3,service,negative,-0.93,service,india - bangalore,27.06,enterprise
+696,urban threads,clothing,good quality fabric and perfect fit.,5,11/27/2024,instagram,2,product,positive,0.76,quality,sri lanka - kandy,25.7,startup
+697,urban curry,restaurant,the food was delicious and the staff were very friendly.,4,6/30/2024,instagram,3,service,positive,0.76,experience,india - bangalore,17.15,startup
+698,citygrocer,supermarket,quick billing and helpful staff.,4,9/2/2025,facebook,2,support,positive,0.83,experience,india - bangalore,11.17,enterprise
+699,skillbridge academy,academic,teachers explain concepts clearly and provide good support.,4,11/7/2024,yelp,1,product,positive,0.66,price,india - bangalore,38.7,startup
+700,urban threads,clothing,good quality fabric and perfect fit.,4,8/10/2025,instagram,3,product,positive,0.75,support,sri lanka - colombo,27.58,sme
+701,ocean bites,restaurant,"average taste, reasonable price.",4,2/11/2024,yelp,2,support,neutral,0.27,quality,india - bangalore,22.41,sme
+702,dailyneeds,supermarket,fresh vegetables and well organized shelves.,5,2/12/2025,appstore,3,service,positive,0.62,service,sri lanka - colombo,19.6,sme
+703,quickeats,food delivery,app crashed while placing order.,2,9/14/2024,yelp,3,product,negative,-0.45,quality,india - bangalore,28.58,sme
+704,quickeats,food delivery,delivery time was acceptable.,3,11/11/2024,google,2,delivery,neutral,-0.08,support,sri lanka - colombo,36.08,sme
+705,speedybite,food delivery,delivery was fast and food arrived hot.,5,3/24/2024,appstore,3,support,positive,0.53,support,india - chennai,39.67,sme
+706,spice garden,restaurant,authentic flavors and generous portions.,4,7/5/2025,yelp,3,product,positive,0.59,experience,india - bangalore,21.01,sme
+707,futurelearn center,academic,facilities are average.,3,5/12/2024,instagram,1,delivery,neutral,0.06,support,india - chennai,5.05,sme
+708,greenbasket,supermarket,quick billing and helpful staff.,4,3/13/2025,facebook,1,support,positive,0.96,experience,india - chennai,32.37,enterprise
+709,freshmart,supermarket,fresh vegetables and well organized shelves.,5,4/20/2024,google,3,service,positive,0.9,delivery,india - bangalore,39.71,sme
+710,spice garden,restaurant,staff were rude and the place was not clean.,2,8/21/2025,instagram,3,delivery,negative,-0.6,quality,sri lanka - colombo,36.68,startup
+711,urban curry,restaurant,the food was delicious and the staff were very friendly.,5,8/21/2025,appstore,3,delivery,positive,0.56,delivery,india - bangalore,36.74,sme
+712,greenbasket,supermarket,products are available but prices are average.,4,7/6/2024,google,3,service,neutral,0.19,support,india - bangalore,24.35,enterprise
+713,speedybite,food delivery,easy app to use and good tracking system.,4,10/19/2024,instagram,2,support,positive,0.66,service,india - chennai,7.67,enterprise
+714,urban curry,restaurant,staff were rude and the place was not clean.,1,9/7/2024,google,3,support,negative,-0.74,service,sri lanka - kandy,14.08,sme
+715,ocean bites,restaurant,overpriced for the portion size.,1,6/3/2024,facebook,3,support,negative,-0.78,support,sri lanka - kandy,18.81,sme
+716,modaline,clothing,quality is acceptable for the price.,4,11/23/2025,appstore,3,delivery,neutral,0.28,support,india - bangalore,33.36,startup
+717,dailyneeds,supermarket,store is okay but sometimes crowded.,4,8/3/2024,facebook,3,service,neutral,0.02,quality,india - chennai,39.08,startup
+718,dailyneeds,supermarket,fresh vegetables and well organized shelves.,5,2/21/2024,yelp,2,support,positive,0.72,support,sri lanka - colombo,8.28,sme
+719,skillbridge academy,academic,course content is fine but could be updated.,4,8/29/2024,instagram,3,delivery,neutral,0.21,delivery,india - bangalore,22.39,enterprise
+720,dailyneeds,supermarket,store is okay but sometimes crowded.,3,1/29/2024,facebook,2,delivery,neutral,0.09,price,sri lanka - kandy,39.84,startup
+721,citygrocer,supermarket,staff not responsive when asking for help.,1,7/1/2025,facebook,1,product,negative,-0.61,quality,sri lanka - colombo,24.91,startup
+722,skillbridge academy,academic,great learning environment and useful course materials.,5,4/18/2024,google,3,service,positive,0.53,price,sri lanka - kandy,9.73,startup
+723,quickeats,food delivery,delivery time was acceptable.,4,7/22/2025,appstore,2,delivery,neutral,0.11,service,sri lanka - colombo,30.73,sme
+724,freshmart,supermarket,wide variety of products at good prices.,5,12/23/2024,instagram,2,service,positive,0.77,support,sri lanka - kandy,30.32,sme
+725,ocean bites,restaurant,food was okay but nothing special.,3,2/15/2025,appstore,3,support,neutral,0.11,support,sri lanka - colombo,15.98,enterprise
+726,greenbasket,supermarket,staff not responsive when asking for help.,2,10/12/2024,google,1,delivery,negative,-0.5,service,india - bangalore,38.25,enterprise
+727,spice garden,restaurant,the food was delicious and the staff were very friendly.,5,5/25/2025,google,2,delivery,positive,0.56,quality,sri lanka - colombo,9.26,enterprise
+728,spice garden,restaurant,overpriced for the portion size.,1,7/28/2024,appstore,2,delivery,negative,-0.98,service,sri lanka - kandy,28.46,enterprise
+729,futurelearn center,academic,great learning environment and useful course materials.,4,3/29/2025,instagram,1,support,positive,0.51,quality,sri lanka - colombo,9.42,sme
+730,fooddash,food delivery,delivery time was acceptable.,3,4/24/2025,facebook,3,service,neutral,0.13,quality,india - bangalore,18.61,enterprise
+731,fooddash,food delivery,app works fine but nothing impressive.,3,5/28/2025,instagram,2,support,neutral,0.03,support,sri lanka - colombo,15.03,sme
+732,trendwear,clothing,good quality fabric and perfect fit.,5,11/15/2025,google,3,delivery,positive,0.59,experience,india - chennai,29.14,sme
+733,grand tandoori,restaurant,the food was delicious and the staff were very friendly.,5,12/22/2024,appstore,1,service,positive,0.69,quality,india - bangalore,10.37,startup
+734,quickeats,food delivery,easy app to use and good tracking system.,5,5/31/2025,appstore,1,delivery,positive,0.77,service,sri lanka - colombo,33.54,enterprise
+735,stylehub,clothing,trendy designs and affordable prices.,4,10/28/2025,appstore,1,delivery,positive,0.97,quality,sri lanka - colombo,32.53,enterprise
+736,futurelearn center,academic,great learning environment and useful course materials.,4,2/1/2024,appstore,2,service,positive,0.72,price,india - bangalore,6.61,sme
+737,citygrocer,supermarket,wide variety of products at good prices.,4,6/18/2024,facebook,1,service,positive,0.52,experience,sri lanka - colombo,14.82,enterprise
+738,trendwear,clothing,quality is acceptable for the price.,4,1/24/2024,appstore,2,delivery,neutral,0.03,quality,sri lanka - kandy,13.8,enterprise
+739,skillbridge academy,academic,great learning environment and useful course materials.,4,6/8/2025,instagram,1,service,positive,0.94,experience,sri lanka - kandy,37.36,startup
+740,mealgo,food delivery,easy app to use and good tracking system.,5,8/21/2025,google,1,product,positive,0.61,service,india - bangalore,13.11,sme
+741,skillbridge academy,academic,poor communication from administration.,1,7/13/2025,appstore,1,delivery,negative,-0.77,price,sri lanka - colombo,33.6,sme
+742,freshmart,supermarket,wide variety of products at good prices.,5,3/27/2024,facebook,1,product,positive,0.73,price,india - bangalore,15.48,enterprise
+743,futurelearn center,academic,flexible schedules and practical lessons.,5,1/12/2024,facebook,2,support,positive,0.53,quality,sri lanka - kandy,32.69,enterprise
+744,trendwear,clothing,overpriced for low quality material.,2,7/11/2024,facebook,3,service,negative,-0.89,support,india - bangalore,37.28,sme
+745,nextgen institute,academic,course content is fine but could be updated.,3,3/3/2025,yelp,1,service,neutral,0.28,service,india - chennai,6.81,sme
+746,mealgo,food delivery,app works fine but nothing impressive.,3,9/26/2025,yelp,3,delivery,neutral,0.12,experience,india - bangalore,15.21,enterprise
+747,brightpath college,academic,great learning environment and useful course materials.,4,9/8/2024,facebook,1,product,positive,0.71,quality,sri lanka - kandy,35.93,startup
+748,spice garden,restaurant,food arrived cold and the service was slow.,2,1/6/2025,instagram,2,support,negative,-0.97,delivery,sri lanka - colombo,10.25,enterprise
+749,urban curry,restaurant,authentic flavors and generous portions.,5,9/1/2024,facebook,3,service,positive,0.87,price,india - bangalore,10.6,enterprise
+750,brightpath college,academic,flexible schedules and practical lessons.,5,12/30/2024,appstore,1,delivery,positive,0.88,delivery,india - chennai,39.88,sme
+751,futurelearn center,academic,teachers explain concepts clearly and provide good support.,5,4/13/2024,facebook,1,product,positive,0.84,delivery,india - chennai,11.07,startup
+752,fooddash,food delivery,delivery was fast and food arrived hot.,4,3/1/2024,google,3,service,positive,0.96,experience,india - chennai,33.18,enterprise
+753,ocean bites,restaurant,food was okay but nothing special.,3,10/20/2024,yelp,1,service,neutral,0.26,service,india - bangalore,29.91,enterprise
+754,stylehub,clothing,good quality fabric and perfect fit.,4,9/2/2025,google,3,product,positive,0.69,quality,india - chennai,13.75,sme
+755,skillbridge academy,academic,flexible schedules and practical lessons.,5,6/17/2025,facebook,3,product,positive,0.64,service,sri lanka - kandy,21.01,enterprise
+756,skillbridge academy,academic,poor communication from administration.,1,5/22/2025,instagram,1,service,negative,-0.62,price,india - bangalore,31.48,sme
+757,spice garden,restaurant,"clean place and tasty meals, will visit again.",5,4/15/2024,yelp,2,delivery,positive,0.51,price,india - bangalore,37.51,startup
+758,brightpath college,academic,teachers explain concepts clearly and provide good support.,4,3/23/2024,facebook,1,product,positive,0.66,quality,india - chennai,37.76,enterprise
+759,brightpath college,academic,teachers explain concepts clearly and provide good support.,4,11/16/2025,google,2,delivery,positive,0.67,service,india - bangalore,30.4,sme
+760,grand tandoori,restaurant,staff were rude and the place was not clean.,1,11/6/2024,google,3,product,negative,-0.43,support,sri lanka - colombo,32.33,startup
+761,fooddash,food delivery,app crashed while placing order.,2,11/9/2024,appstore,1,service,negative,-0.46,delivery,india - chennai,24.56,startup
+762,ocean bites,restaurant,overpriced for the portion size.,2,3/30/2024,appstore,2,product,negative,-0.98,price,india - chennai,27,enterprise
+763,fooddash,food delivery,delivery time was acceptable.,4,8/23/2024,appstore,1,service,neutral,0,price,india - chennai,13.95,enterprise
+764,speedybite,food delivery,app crashed while placing order.,1,3/25/2024,instagram,2,product,negative,-0.66,quality,india - chennai,29.05,startup
+765,fooddash,food delivery,order was delayed and items missing.,2,2/3/2025,appstore,3,support,negative,-0.95,service,sri lanka - colombo,13.56,enterprise
+766,stylehub,clothing,good quality fabric and perfect fit.,5,6/30/2024,facebook,1,delivery,positive,0.69,support,india - bangalore,22.49,sme
+767,ocean bites,restaurant,"clean place and tasty meals, will visit again.",4,6/28/2025,google,1,support,positive,0.63,price,sri lanka - kandy,28.59,sme
+768,skillbridge academy,academic,great learning environment and useful course materials.,4,2/3/2024,facebook,3,support,positive,0.85,support,sri lanka - kandy,21.65,enterprise
+769,skillbridge academy,academic,facilities are average.,3,12/14/2024,yelp,1,product,neutral,-0.04,quality,sri lanka - kandy,12.1,enterprise
+770,dailyneeds,supermarket,fresh vegetables and well organized shelves.,5,6/1/2025,google,1,delivery,positive,0.6,delivery,sri lanka - colombo,18.56,sme
+771,nextgen institute,academic,facilities are average.,3,2/10/2024,google,2,support,neutral,0.27,experience,sri lanka - colombo,32.54,sme
+772,mealgo,food delivery,delivery time was acceptable.,4,4/1/2024,yelp,3,service,neutral,0.22,price,india - bangalore,9.94,enterprise
+773,urban curry,restaurant,overpriced for the portion size.,2,11/1/2024,yelp,1,product,negative,-0.84,service,sri lanka - colombo,23.89,sme
+774,quickeats,food delivery,easy app to use and good tracking system.,4,2/28/2024,instagram,3,delivery,positive,0.68,quality,sri lanka - colombo,26.99,enterprise
+775,stylehub,clothing,sizes were inaccurate and returns were difficult.,1,5/30/2025,yelp,2,product,negative,-0.6,delivery,sri lanka - colombo,39.16,startup
+776,urban curry,restaurant,food was okay but nothing special.,3,4/2/2025,yelp,1,support,neutral,0,support,india - chennai,36.79,enterprise
+777,grand tandoori,restaurant,food was okay but nothing special.,4,4/9/2024,google,3,support,neutral,0.19,price,india - chennai,29.45,enterprise
+778,urban threads,clothing,clothes feel comfortable and durable.,5,6/8/2025,yelp,2,service,positive,0.62,quality,sri lanka - colombo,5.78,startup
+779,stylehub,clothing,good quality fabric and perfect fit.,5,10/8/2024,instagram,1,service,positive,0.52,support,india - bangalore,7.63,enterprise
+780,citygrocer,supermarket,some items were expired on the shelf.,1,7/23/2024,instagram,1,support,negative,-0.49,quality,sri lanka - colombo,31.91,startup
+781,mealgo,food delivery,reliable service and accurate orders.,4,1/10/2025,facebook,2,service,positive,0.87,support,sri lanka - kandy,38.15,sme
+782,stylehub,clothing,clothes feel comfortable and durable.,5,12/12/2024,instagram,1,service,positive,0.84,quality,sri lanka - kandy,29.75,sme
+783,fooddash,food delivery,reliable service and accurate orders.,4,5/17/2024,instagram,1,support,positive,0.94,service,sri lanka - colombo,19.99,sme
+784,skillbridge academy,academic,facilities are average.,4,9/10/2024,appstore,1,product,neutral,0,delivery,india - bangalore,22.11,enterprise
+785,brightpath college,academic,flexible schedules and practical lessons.,5,1/25/2025,yelp,1,delivery,positive,0.59,service,sri lanka - kandy,34.08,enterprise
+786,quickeats,food delivery,easy app to use and good tracking system.,5,4/19/2024,google,2,delivery,positive,0.87,delivery,india - bangalore,38.74,sme
+787,futurelearn center,academic,flexible schedules and practical lessons.,4,3/11/2025,yelp,3,service,positive,0.8,delivery,india - bangalore,36.13,startup
+788,grand tandoori,restaurant,food was okay but nothing special.,4,4/2/2025,appstore,2,delivery,neutral,-0.04,price,sri lanka - kandy,13.75,startup
+789,nextgen institute,academic,flexible schedules and practical lessons.,5,3/24/2025,instagram,2,delivery,positive,0.81,quality,india - chennai,11.19,startup
+790,urban curry,restaurant,"clean place and tasty meals, will visit again.",5,5/20/2024,facebook,2,support,positive,0.55,experience,sri lanka - colombo,32.54,sme
+791,dailyneeds,supermarket,long queues at checkout counters.,2,3/21/2024,appstore,3,service,negative,-0.5,delivery,sri lanka - colombo,18.43,startup
+792,fooddash,food delivery,reliable service and accurate orders.,4,6/23/2024,facebook,3,delivery,positive,0.61,delivery,sri lanka - colombo,8.88,startup
+793,fooddash,food delivery,cold food and poor packaging.,1,12/27/2024,appstore,2,service,negative,-0.86,delivery,sri lanka - kandy,34.3,sme
+794,stylehub,clothing,trendy designs and affordable prices.,4,8/29/2024,instagram,3,service,positive,0.87,price,sri lanka - colombo,27.48,sme
+795,brightpath college,academic,flexible schedules and practical lessons.,4,4/1/2025,facebook,2,delivery,positive,0.98,price,sri lanka - kandy,5.58,enterprise
+796,ocean bites,restaurant,"clean place and tasty meals, will visit again.",5,2/25/2025,yelp,1,product,positive,0.77,delivery,india - chennai,25.31,sme
+797,mealgo,food delivery,delivery was fast and food arrived hot.,5,8/5/2024,facebook,1,delivery,positive,0.65,support,india - chennai,29.13,sme
+798,mealgo,food delivery,delivery time was acceptable.,3,5/24/2025,google,1,service,neutral,0.03,price,india - chennai,9.54,enterprise
+799,futurelearn center,academic,teachers explain concepts clearly and provide good support.,4,5/17/2024,facebook,2,service,positive,0.71,quality,india - chennai,26.01,sme
+800,greenbasket,supermarket,long queues at checkout counters.,2,10/5/2025,google,3,support,negative,-0.91,price,india - bangalore,7.2,enterprise
+801,futurelearn center,academic,facilities are average.,4,9/24/2025,appstore,3,delivery,neutral,0.09,quality,india - bangalore,8.06,sme
+802,freshmart,supermarket,products are available but prices are average.,3,3/4/2025,facebook,1,support,neutral,0.29,price,sri lanka - kandy,11.03,sme
+803,futurelearn center,academic,flexible schedules and practical lessons.,5,7/30/2025,google,1,service,positive,0.88,service,sri lanka - colombo,25.2,sme
+804,trendwear,clothing,designs are decent but limited options.,3,1/9/2024,facebook,3,service,neutral,0.1,support,sri lanka - kandy,17.03,startup
+805,freshmart,supermarket,store is okay but sometimes crowded.,3,10/12/2024,instagram,1,support,neutral,-0.04,experience,sri lanka - kandy,5.12,sme
+806,fooddash,food delivery,delivery was fast and food arrived hot.,4,3/2/2024,facebook,1,support,positive,0.76,delivery,sri lanka - kandy,28.56,startup
+807,quickeats,food delivery,order was delayed and items missing.,2,11/20/2025,facebook,2,product,negative,-0.66,delivery,sri lanka - kandy,36.3,enterprise
+808,brightpath college,academic,classes often cancelled without notice.,2,10/2/2024,yelp,1,support,negative,-0.96,price,sri lanka - colombo,31.26,startup
+809,mealgo,food delivery,app works fine but nothing impressive.,4,9/21/2024,instagram,2,product,neutral,0.08,quality,india - bangalore,35.02,startup
+810,modaline,clothing,good quality fabric and perfect fit.,5,8/22/2024,google,3,delivery,positive,0.77,experience,india - chennai,25.61,startup
+811,nextgen institute,academic,course content is fine but could be updated.,4,6/11/2025,appstore,1,product,neutral,0.02,experience,india - bangalore,15.48,sme
+812,spice garden,restaurant,"clean place and tasty meals, will visit again.",4,7/11/2024,google,3,product,positive,0.91,delivery,india - chennai,8.88,enterprise
+813,grand tandoori,restaurant,the food was delicious and the staff were very friendly.,4,2/4/2024,facebook,2,service,positive,0.54,price,sri lanka - colombo,24.47,startup
+814,freshmart,supermarket,some items were expired on the shelf.,2,6/22/2025,appstore,1,delivery,negative,-0.95,experience,sri lanka - colombo,10.14,sme
+815,futurelearn center,academic,teachers explain concepts clearly and provide good support.,5,4/25/2025,yelp,2,delivery,positive,0.57,quality,india - bangalore,20.45,startup
+816,trendwear,clothing,quality is acceptable for the price.,4,11/25/2024,facebook,1,service,neutral,0.3,support,india - bangalore,22.6,startup
+817,greenbasket,supermarket,fresh vegetables and well organized shelves.,4,4/1/2024,yelp,3,delivery,positive,0.74,delivery,india - bangalore,15.86,enterprise
+818,skillbridge academy,academic,poor communication from administration.,2,12/3/2024,google,1,service,negative,-0.78,delivery,india - bangalore,12.91,enterprise
+819,urban threads,clothing,overpriced for low quality material.,2,11/22/2025,instagram,1,delivery,negative,-0.97,support,sri lanka - kandy,9.96,startup
+820,nextgen institute,academic,great learning environment and useful course materials.,5,9/20/2025,google,3,delivery,positive,0.86,support,sri lanka - colombo,25.11,startup
+821,fooddash,food delivery,delivery time was acceptable.,4,12/17/2024,facebook,2,service,neutral,0.07,delivery,sri lanka - colombo,34.28,sme
+822,skillbridge academy,academic,great learning environment and useful course materials.,5,3/26/2025,yelp,3,product,positive,0.84,quality,india - bangalore,36.88,enterprise
+823,dailyneeds,supermarket,fresh vegetables and well organized shelves.,5,5/12/2024,appstore,3,support,positive,0.97,support,sri lanka - colombo,16.35,enterprise
+824,modaline,clothing,good quality fabric and perfect fit.,4,9/25/2025,appstore,3,support,positive,0.67,service,india - bangalore,24.05,enterprise
+825,trendwear,clothing,quality is acceptable for the price.,4,10/12/2024,yelp,2,service,neutral,-0.02,price,india - bangalore,10.64,sme
+826,grand tandoori,restaurant,food was okay but nothing special.,3,12/12/2024,instagram,2,support,neutral,0.1,quality,india - bangalore,28.63,startup
+827,fooddash,food delivery,delivery time was acceptable.,3,7/19/2025,instagram,3,product,neutral,-0.01,price,india - bangalore,33.57,sme
+828,stylehub,clothing,quality is acceptable for the price.,4,6/6/2024,google,3,service,neutral,-0.08,service,india - chennai,31.62,startup
+829,fooddash,food delivery,easy app to use and good tracking system.,4,11/28/2025,google,1,delivery,positive,0.68,price,sri lanka - kandy,36.06,startup
+830,citygrocer,supermarket,wide variety of products at good prices.,4,4/13/2024,google,3,support,positive,0.7,support,india - chennai,38.18,startup
+831,greenbasket,supermarket,quick billing and helpful staff.,5,6/15/2024,yelp,1,service,positive,0.96,experience,india - chennai,38.76,startup
+832,quickeats,food delivery,reliable service and accurate orders.,4,12/3/2024,appstore,1,product,positive,0.81,delivery,india - chennai,19.97,sme
+833,fooddash,food delivery,reliable service and accurate orders.,5,1/13/2025,google,1,service,positive,0.6,quality,india - chennai,32.25,startup
+834,mealgo,food delivery,app works fine but nothing impressive.,4,1/2/2024,appstore,2,delivery,neutral,0.27,experience,india - chennai,11.65,startup
+835,citygrocer,supermarket,some items were expired on the shelf.,2,7/16/2025,facebook,2,support,negative,-0.91,support,sri lanka - colombo,22.32,startup
+836,speedybite,food delivery,app works fine but nothing impressive.,4,7/9/2024,instagram,3,product,neutral,-0.09,delivery,india - bangalore,20.52,startup
+837,urban curry,restaurant,service was fine but a bit slow during peak hours.,4,3/4/2024,instagram,2,support,neutral,0.16,experience,sri lanka - kandy,13.66,startup
+838,citygrocer,supermarket,products are available but prices are average.,3,4/11/2024,yelp,3,product,neutral,-0.02,quality,sri lanka - colombo,14.56,enterprise
+839,grand tandoori,restaurant,"clean place and tasty meals, will visit again.",4,8/4/2025,appstore,2,support,positive,0.73,quality,sri lanka - kandy,35.9,startup
+840,trendwear,clothing,fabric quality is poor and shrank after washing.,2,8/4/2024,instagram,3,service,negative,-0.52,price,india - chennai,7.68,startup
+841,fooddash,food delivery,delivery was fast and food arrived hot.,4,1/23/2025,instagram,2,service,positive,0.93,service,sri lanka - kandy,23.71,enterprise
+842,modaline,clothing,clothes feel comfortable and durable.,4,6/12/2024,google,1,support,positive,0.81,quality,sri lanka - kandy,19.08,sme
+843,skillbridge academy,academic,outdated materials and unhelpful staff.,1,6/21/2024,google,3,service,negative,-0.9,experience,india - bangalore,13.94,startup
+844,urban curry,restaurant,food arrived cold and the service was slow.,1,9/15/2025,google,3,delivery,negative,-0.82,price,india - chennai,13.01,enterprise
+845,dailyneeds,supermarket,fresh vegetables and well organized shelves.,5,3/24/2024,instagram,1,service,positive,0.72,quality,sri lanka - kandy,39.99,sme
+846,futurelearn center,academic,teachers explain concepts clearly and provide good support.,5,11/11/2025,instagram,3,service,positive,0.96,experience,sri lanka - colombo,11.07,sme
+847,quickeats,food delivery,delivery was fast and food arrived hot.,5,8/25/2025,facebook,3,service,positive,0.69,support,india - bangalore,39.5,enterprise
+848,nextgen institute,academic,outdated materials and unhelpful staff.,1,6/2/2025,yelp,3,delivery,negative,-0.74,support,sri lanka - kandy,23.08,sme
+849,fooddash,food delivery,delivery time was acceptable.,4,2/18/2025,appstore,2,support,neutral,0.28,delivery,india - chennai,9.57,startup
+850,skillbridge academy,academic,teachers explain concepts clearly and provide good support.,5,3/7/2025,facebook,1,delivery,positive,0.71,price,india - bangalore,25.17,startup
+851,speedybite,food delivery,easy app to use and good tracking system.,5,4/22/2024,google,1,support,positive,0.55,service,india - bangalore,13.43,enterprise
+852,futurelearn center,academic,outdated materials and unhelpful staff.,1,3/4/2024,instagram,3,service,negative,-0.6,service,sri lanka - kandy,14.72,sme
+853,brightpath college,academic,classes often cancelled without notice.,1,5/30/2024,google,1,product,negative,-0.64,quality,sri lanka - kandy,36.93,startup
+854,dailyneeds,supermarket,products are available but prices are average.,3,5/4/2024,instagram,2,delivery,neutral,-0.04,quality,sri lanka - colombo,15.9,sme
+855,urban threads,clothing,quality is acceptable for the price.,3,8/25/2025,yelp,3,product,neutral,0.28,support,sri lanka - kandy,35.34,sme
+856,citygrocer,supermarket,quick billing and helpful staff.,4,1/28/2025,appstore,1,product,positive,0.94,experience,india - bangalore,7.42,startup
+857,nextgen institute,academic,flexible schedules and practical lessons.,4,2/22/2024,facebook,1,service,positive,0.67,support,sri lanka - kandy,23.29,sme
+858,freshmart,supermarket,wide variety of products at good prices.,5,7/19/2025,facebook,1,service,positive,0.98,price,india - chennai,27.6,sme
+859,urban threads,clothing,trendy designs and affordable prices.,5,1/16/2024,facebook,3,product,positive,0.54,delivery,sri lanka - colombo,31.36,enterprise
+860,futurelearn center,academic,poor communication from administration.,1,11/13/2024,instagram,1,delivery,negative,-0.94,price,sri lanka - colombo,34.15,sme
+861,trendwear,clothing,good quality fabric and perfect fit.,5,8/29/2024,yelp,2,service,positive,0.58,quality,sri lanka - kandy,14.91,enterprise
+862,mealgo,food delivery,easy app to use and good tracking system.,4,8/17/2024,facebook,1,service,positive,0.61,delivery,sri lanka - colombo,26.4,sme
+863,mealgo,food delivery,reliable service and accurate orders.,4,5/25/2024,instagram,2,service,positive,0.64,experience,india - chennai,25.73,sme
+864,greenbasket,supermarket,some items were expired on the shelf.,2,2/9/2025,facebook,3,support,negative,-0.74,service,sri lanka - colombo,20.51,enterprise
+865,ocean bites,restaurant,staff were rude and the place was not clean.,1,1/15/2025,facebook,1,support,negative,-0.44,service,sri lanka - kandy,25.64,startup
+866,brightpath college,academic,facilities are average.,3,11/20/2025,appstore,1,delivery,neutral,0.04,service,india - chennai,18.27,sme
+867,stylehub,clothing,trendy designs and affordable prices.,5,4/24/2025,facebook,1,product,positive,0.66,delivery,india - bangalore,5.28,enterprise
+868,dailyneeds,supermarket,store is okay but sometimes crowded.,4,7/22/2024,instagram,2,support,neutral,0.05,service,india - chennai,22.49,sme
+869,grand tandoori,restaurant,staff were rude and the place was not clean.,2,7/10/2024,google,1,delivery,negative,-0.84,price,india - bangalore,9.28,sme
+870,urban curry,restaurant,staff were rude and the place was not clean.,1,2/14/2025,appstore,2,product,negative,-0.58,experience,sri lanka - kandy,21.03,sme
+871,speedybite,food delivery,delivery was fast and food arrived hot.,4,1/16/2025,yelp,2,service,positive,0.53,experience,sri lanka - colombo,8,sme
+872,urban threads,clothing,trendy designs and affordable prices.,4,2/5/2025,google,3,product,positive,0.52,delivery,sri lanka - colombo,15.97,enterprise
+873,fooddash,food delivery,order was delayed and items missing.,1,3/28/2024,google,2,delivery,negative,-0.43,price,sri lanka - colombo,11.25,sme
+874,stylehub,clothing,good quality fabric and perfect fit.,4,2/29/2024,yelp,1,support,positive,0.83,quality,sri lanka - colombo,5.96,enterprise
+875,speedybite,food delivery,app crashed while placing order.,1,4/27/2025,facebook,2,product,negative,-0.43,quality,sri lanka - kandy,38.93,sme
+876,quickeats,food delivery,order was delayed and items missing.,2,2/7/2025,appstore,1,service,negative,-0.94,quality,india - chennai,8.71,startup
+877,futurelearn center,academic,poor communication from administration.,2,2/23/2024,yelp,3,support,negative,-0.92,support,sri lanka - colombo,10.81,sme
+878,nextgen institute,academic,great learning environment and useful course materials.,4,2/27/2024,google,2,support,positive,0.68,delivery,sri lanka - colombo,29.41,sme
+879,fooddash,food delivery,reliable service and accurate orders.,5,12/4/2024,google,2,delivery,positive,0.95,support,india - chennai,37.56,startup
+880,citygrocer,supermarket,store is okay but sometimes crowded.,4,8/14/2024,appstore,2,support,neutral,0,delivery,sri lanka - colombo,19.47,enterprise
+881,futurelearn center,academic,classes often cancelled without notice.,1,3/9/2024,instagram,1,service,negative,-0.53,quality,india - bangalore,20.92,enterprise
+882,trendwear,clothing,sizes were inaccurate and returns were difficult.,2,9/23/2025,yelp,2,product,negative,-0.86,support,india - chennai,33.78,startup
+883,skillbridge academy,academic,classes often cancelled without notice.,2,7/13/2024,instagram,3,service,negative,-0.88,delivery,sri lanka - kandy,6.33,startup
+884,brightpath college,academic,great learning environment and useful course materials.,4,4/11/2024,instagram,2,product,positive,0.53,delivery,india - bangalore,21.99,enterprise
+885,nextgen institute,academic,classes often cancelled without notice.,1,9/2/2025,yelp,3,delivery,negative,-0.74,quality,india - chennai,37,sme
+886,dailyneeds,supermarket,fresh vegetables and well organized shelves.,4,6/6/2024,google,1,support,positive,0.9,experience,india - bangalore,6.17,enterprise
+887,mealgo,food delivery,app crashed while placing order.,1,10/28/2024,facebook,3,product,negative,-0.55,delivery,india - bangalore,32.05,startup
+888,greenbasket,supermarket,wide variety of products at good prices.,4,5/22/2025,google,2,delivery,positive,0.74,delivery,sri lanka - colombo,6.04,enterprise
+889,speedybite,food delivery,easy app to use and good tracking system.,5,6/21/2025,google,1,delivery,positive,0.52,experience,india - bangalore,24.2,sme
+890,trendwear,clothing,designs are decent but limited options.,4,3/20/2024,google,2,delivery,neutral,-0.04,support,sri lanka - colombo,7.17,enterprise
+891,modaline,clothing,good quality fabric and perfect fit.,5,7/6/2025,appstore,2,service,positive,0.75,quality,india - bangalore,32.56,startup
+892,stylehub,clothing,designs are decent but limited options.,4,9/9/2024,google,2,product,neutral,0,service,sri lanka - kandy,15.59,startup
+893,grand tandoori,restaurant,great ambience and quick service. loved the dinner experience.,4,4/9/2025,appstore,3,delivery,positive,0.69,quality,india - chennai,24.41,sme
+894,urban threads,clothing,good quality fabric and perfect fit.,4,1/22/2024,google,3,service,positive,0.52,price,india - chennai,10.42,startup
+895,citygrocer,supermarket,wide variety of products at good prices.,4,7/22/2024,facebook,1,service,positive,0.74,support,sri lanka - kandy,28.65,startup
+896,skillbridge academy,academic,course content is fine but could be updated.,3,2/25/2024,instagram,1,service,neutral,0.09,price,sri lanka - colombo,27.21,enterprise
+897,skillbridge academy,academic,flexible schedules and practical lessons.,4,6/11/2025,instagram,1,support,positive,0.74,service,india - bangalore,10.68,sme
+898,freshmart,supermarket,products are available but prices are average.,4,7/26/2025,appstore,3,support,neutral,0.17,price,india - bangalore,21.19,startup
+899,urban curry,restaurant,"clean place and tasty meals, will visit again.",4,7/25/2024,yelp,3,delivery,positive,0.61,experience,india - chennai,32.02,sme
+900,urban curry,restaurant,overpriced for the portion size.,1,5/17/2025,facebook,3,delivery,negative,-0.66,support,sri lanka - kandy,38.7,sme
+901,speedybite,food delivery,reliable service and accurate orders.,5,12/29/2024,google,3,product,positive,0.79,price,sri lanka - kandy,15.21,sme
+902,quickeats,food delivery,cold food and poor packaging.,2,1/4/2025,instagram,3,support,negative,-0.41,delivery,india - bangalore,33.75,startup
+903,trendwear,clothing,designs are decent but limited options.,3,6/17/2025,google,2,delivery,neutral,0.07,quality,india - chennai,26.89,sme
+904,speedybite,food delivery,delivery was fast and food arrived hot.,4,7/25/2025,yelp,1,support,positive,0.51,support,india - chennai,37.8,enterprise
+905,citygrocer,supermarket,staff not responsive when asking for help.,1,6/12/2025,facebook,1,support,negative,-0.88,delivery,sri lanka - colombo,38.4,sme
+906,trendwear,clothing,overpriced for low quality material.,2,1/2/2025,instagram,2,product,negative,-0.43,experience,india - chennai,35.36,startup
+907,urban curry,restaurant,the food was delicious and the staff were very friendly.,5,5/23/2024,facebook,2,product,positive,0.54,quality,sri lanka - kandy,7.32,enterprise
+908,mealgo,food delivery,reliable service and accurate orders.,4,5/20/2025,instagram,1,delivery,positive,0.57,support,india - bangalore,8.33,enterprise
+909,fooddash,food delivery,order was delayed and items missing.,2,7/9/2025,yelp,1,service,negative,-0.81,delivery,india - chennai,38.94,startup
+910,futurelearn center,academic,facilities are average.,4,4/22/2024,facebook,1,delivery,neutral,0.08,support,sri lanka - kandy,30.54,enterprise
+911,urban threads,clothing,fabric quality is poor and shrank after washing.,2,1/9/2025,appstore,2,delivery,negative,-0.96,service,india - chennai,11.16,sme
+912,speedybite,food delivery,order was delayed and items missing.,2,11/27/2025,google,3,service,negative,-0.84,support,sri lanka - colombo,36.01,sme
+913,dailyneeds,supermarket,some items were expired on the shelf.,2,7/15/2024,google,3,delivery,negative,-0.48,price,india - chennai,6.95,enterprise
+914,freshmart,supermarket,staff not responsive when asking for help.,2,1/9/2024,yelp,3,service,negative,-0.57,quality,sri lanka - kandy,5.09,sme
+915,mealgo,food delivery,app works fine but nothing impressive.,3,11/15/2025,appstore,2,support,neutral,-0.04,delivery,sri lanka - kandy,37.69,sme
+916,brightpath college,academic,course content is fine but could be updated.,4,8/20/2025,instagram,2,delivery,neutral,0.2,price,india - bangalore,35.11,enterprise
+917,citygrocer,supermarket,staff not responsive when asking for help.,2,4/22/2025,facebook,1,delivery,negative,-0.6,price,sri lanka - colombo,37.59,sme
+918,urban curry,restaurant,food arrived cold and the service was slow.,1,1/16/2024,yelp,1,support,negative,-0.61,service,sri lanka - kandy,33.93,startup
+919,mealgo,food delivery,delivery was fast and food arrived hot.,4,4/19/2024,google,2,product,positive,0.81,quality,sri lanka - colombo,16.71,enterprise
+920,spice garden,restaurant,food was okay but nothing special.,4,4/7/2024,yelp,2,delivery,neutral,-0.07,price,india - bangalore,20.42,startup
+921,ocean bites,restaurant,the food was delicious and the staff were very friendly.,4,12/2/2024,appstore,1,service,positive,0.56,quality,india - chennai,36.32,enterprise
+922,spice garden,restaurant,staff were rude and the place was not clean.,1,8/5/2024,yelp,1,service,negative,-0.63,price,india - chennai,8.95,enterprise
+923,nextgen institute,academic,flexible schedules and practical lessons.,5,1/29/2025,yelp,3,product,positive,0.76,price,sri lanka - kandy,28.31,enterprise
+924,spice garden,restaurant,food was okay but nothing special.,4,8/6/2025,yelp,3,service,neutral,-0.04,experience,india - chennai,15.18,startup
+925,citygrocer,supermarket,some items were expired on the shelf.,2,11/23/2025,instagram,2,support,negative,-0.61,experience,india - chennai,20.97,startup
+926,nextgen institute,academic,classes often cancelled without notice.,1,4/21/2025,facebook,1,service,negative,-0.9,quality,sri lanka - kandy,12.95,startup
+927,urban curry,restaurant,food was okay but nothing special.,3,7/24/2025,appstore,2,support,neutral,0.05,support,india - chennai,36.93,enterprise
+928,dailyneeds,supermarket,staff not responsive when asking for help.,1,3/4/2024,google,1,product,negative,-0.87,price,india - bangalore,18.01,startup
+929,modaline,clothing,good quality fabric and perfect fit.,5,10/5/2024,appstore,2,delivery,positive,0.57,quality,india - bangalore,23.45,sme
+930,futurelearn center,academic,flexible schedules and practical lessons.,4,5/14/2025,instagram,2,service,positive,0.77,experience,india - bangalore,30.18,sme
+931,speedybite,food delivery,reliable service and accurate orders.,5,6/10/2025,appstore,2,support,positive,0.69,support,india - chennai,25.27,enterprise
+932,skillbridge academy,academic,poor communication from administration.,1,5/17/2025,instagram,3,product,negative,-0.57,price,sri lanka - colombo,38.39,startup
+933,nextgen institute,academic,classes often cancelled without notice.,1,2/27/2025,appstore,2,service,negative,-0.61,delivery,sri lanka - kandy,37.71,sme
+934,skillbridge academy,academic,classes often cancelled without notice.,2,1/3/2024,yelp,2,delivery,negative,-0.92,delivery,sri lanka - colombo,28.55,sme
+935,quickeats,food delivery,cold food and poor packaging.,1,11/15/2024,facebook,2,delivery,negative,-0.55,price,sri lanka - kandy,36.74,sme
+936,trendwear,clothing,clothes feel comfortable and durable.,5,6/14/2024,facebook,3,delivery,positive,0.86,quality,india - bangalore,30.11,sme
+937,speedybite,food delivery,delivery time was acceptable.,4,6/12/2025,yelp,2,service,neutral,-0.03,price,india - bangalore,16.11,sme
+938,nextgen institute,academic,great learning environment and useful course materials.,5,11/11/2025,facebook,1,product,positive,0.67,quality,india - bangalore,32.16,enterprise
+939,quickeats,food delivery,delivery was fast and food arrived hot.,5,1/23/2025,instagram,3,delivery,positive,0.59,quality,sri lanka - colombo,23.24,sme
+940,fooddash,food delivery,reliable service and accurate orders.,5,10/13/2025,instagram,1,delivery,positive,0.5,quality,india - chennai,15.89,startup
+941,modaline,clothing,good quality fabric and perfect fit.,4,10/15/2025,yelp,3,support,positive,0.91,delivery,sri lanka - colombo,7.55,enterprise
+942,freshmart,supermarket,wide variety of products at good prices.,4,9/18/2024,facebook,3,support,positive,0.67,support,india - chennai,12.41,startup
+943,mealgo,food delivery,order was delayed and items missing.,2,9/4/2025,yelp,2,delivery,negative,-0.46,experience,india - chennai,24.33,startup
+944,fooddash,food delivery,delivery time was acceptable.,3,10/24/2025,appstore,2,product,neutral,0.12,support,sri lanka - colombo,33.28,sme
+945,futurelearn center,academic,outdated materials and unhelpful staff.,1,4/10/2024,appstore,2,service,negative,-0.46,experience,sri lanka - kandy,21.08,sme
+946,speedybite,food delivery,order was delayed and items missing.,2,5/10/2024,appstore,3,delivery,negative,-0.88,experience,sri lanka - colombo,20.13,startup
+947,stylehub,clothing,clothes feel comfortable and durable.,4,2/3/2025,instagram,3,delivery,positive,0.77,support,sri lanka - kandy,14.5,startup
+948,modaline,clothing,good quality fabric and perfect fit.,4,2/4/2025,appstore,2,service,positive,0.94,service,india - chennai,25.12,startup
+949,stylehub,clothing,quality is acceptable for the price.,3,3/2/2024,facebook,1,support,neutral,0.22,support,sri lanka - kandy,36.98,startup
+950,urban curry,restaurant,the food was delicious and the staff were very friendly.,4,8/1/2024,yelp,2,service,positive,0.74,support,india - bangalore,21.66,enterprise
+951,dailyneeds,supermarket,products are available but prices are average.,3,4/4/2024,facebook,1,product,neutral,0.11,experience,sri lanka - kandy,21.79,sme
+952,quickeats,food delivery,cold food and poor packaging.,1,11/19/2025,instagram,2,product,negative,-0.6,support,sri lanka - kandy,14.73,enterprise
+953,mealgo,food delivery,reliable service and accurate orders.,5,8/2/2024,google,1,delivery,positive,0.71,quality,india - bangalore,39.57,enterprise
+954,modaline,clothing,clothes feel comfortable and durable.,4,3/21/2024,facebook,2,product,positive,0.94,price,sri lanka - kandy,10.24,sme
+955,grand tandoori,restaurant,"clean place and tasty meals, will visit again.",4,1/5/2025,facebook,2,delivery,positive,0.98,delivery,sri lanka - colombo,5.07,startup
+956,quickeats,food delivery,reliable service and accurate orders.,5,5/20/2024,appstore,3,product,positive,0.69,support,india - chennai,24.67,enterprise
+957,speedybite,food delivery,cold food and poor packaging.,1,1/25/2024,google,3,service,negative,-0.52,experience,india - chennai,33.44,startup
+958,stylehub,clothing,fabric quality is poor and shrank after washing.,2,11/22/2024,facebook,1,support,negative,-0.73,delivery,sri lanka - colombo,25.93,startup
+959,grand tandoori,restaurant,overpriced for the portion size.,2,4/3/2025,facebook,2,service,negative,-0.78,price,india - chennai,9.68,enterprise
+960,citygrocer,supermarket,long queues at checkout counters.,2,1/5/2024,instagram,1,service,negative,-0.51,service,india - bangalore,8.18,startup
+961,speedybite,food delivery,delivery was fast and food arrived hot.,5,11/22/2024,yelp,2,product,positive,0.93,service,sri lanka - kandy,25.26,sme
+962,quickeats,food delivery,reliable service and accurate orders.,5,12/1/2024,google,2,service,positive,0.65,support,sri lanka - kandy,14.97,startup
+963,urban threads,clothing,overpriced for low quality material.,1,7/22/2025,appstore,2,product,negative,-0.75,quality,sri lanka - kandy,29.36,sme
+964,trendwear,clothing,good quality fabric and perfect fit.,5,2/18/2024,facebook,2,product,positive,0.9,price,sri lanka - kandy,16.99,startup
+965,urban threads,clothing,clothes feel comfortable and durable.,4,1/13/2024,facebook,1,delivery,positive,0.91,service,sri lanka - colombo,12.87,startup
+966,fooddash,food delivery,delivery was fast and food arrived hot.,4,5/17/2024,google,2,service,positive,0.94,support,india - chennai,32.29,enterprise
+967,greenbasket,supermarket,products are available but prices are average.,3,9/20/2025,appstore,1,delivery,neutral,0.23,price,india - chennai,38.42,sme
+968,freshmart,supermarket,fresh vegetables and well organized shelves.,4,5/17/2024,appstore,1,support,positive,0.76,support,sri lanka - colombo,30.01,startup
+969,trendwear,clothing,sizes were inaccurate and returns were difficult.,2,8/19/2025,yelp,3,product,negative,-0.64,service,india - chennai,34.72,sme
+970,speedybite,food delivery,cold food and poor packaging.,1,7/22/2024,google,2,product,negative,-0.95,price,india - chennai,18.49,enterprise
+971,citygrocer,supermarket,long queues at checkout counters.,2,1/21/2025,appstore,2,product,negative,-0.71,price,sri lanka - kandy,19.16,enterprise
+972,citygrocer,supermarket,wide variety of products at good prices.,5,10/15/2025,instagram,3,service,positive,0.91,service,india - bangalore,17.51,startup
+973,brightpath college,academic,great learning environment and useful course materials.,5,2/17/2025,google,1,delivery,positive,0.87,support,sri lanka - colombo,23.39,enterprise
+974,mealgo,food delivery,app works fine but nothing impressive.,3,12/11/2024,facebook,3,service,neutral,0.07,delivery,india - bangalore,28.87,enterprise
+975,trendwear,clothing,sizes were inaccurate and returns were difficult.,1,1/7/2025,appstore,2,service,negative,-0.97,quality,sri lanka - kandy,27.79,sme
+976,grand tandoori,restaurant,the food was delicious and the staff were very friendly.,4,7/15/2025,facebook,2,product,positive,0.96,quality,sri lanka - colombo,17.93,startup
+977,spice garden,restaurant,food arrived cold and the service was slow.,1,6/11/2025,yelp,3,delivery,negative,-0.6,service,india - chennai,26.2,enterprise
+978,skillbridge academy,academic,flexible schedules and practical lessons.,4,1/31/2024,appstore,1,support,positive,0.85,price,sri lanka - colombo,25.9,enterprise
+979,freshmart,supermarket,long queues at checkout counters.,1,10/10/2025,google,1,delivery,negative,-0.86,price,india - chennai,39.93,startup
+980,quickeats,food delivery,order was delayed and items missing.,1,1/6/2024,facebook,2,delivery,negative,-0.86,price,sri lanka - kandy,8.58,startup
+981,brightpath college,academic,classes often cancelled without notice.,2,4/13/2025,yelp,1,service,negative,-0.89,support,india - bangalore,24.64,sme
+982,speedybite,food delivery,reliable service and accurate orders.,5,10/8/2024,yelp,1,service,positive,0.58,quality,sri lanka - kandy,5.68,sme
+983,spice garden,restaurant,the food was delicious and the staff were very friendly.,4,11/7/2024,appstore,1,delivery,positive,0.98,service,sri lanka - colombo,20.44,sme
+984,greenbasket,supermarket,some items were expired on the shelf.,2,2/25/2024,appstore,2,delivery,negative,-0.75,service,india - bangalore,34.99,sme
+985,greenbasket,supermarket,wide variety of products at good prices.,5,11/24/2024,appstore,2,product,positive,0.68,delivery,india - chennai,7.3,startup
+986,brightpath college,academic,flexible schedules and practical lessons.,4,8/6/2024,instagram,2,service,positive,0.85,support,sri lanka - colombo,31.37,enterprise
+987,dailyneeds,supermarket,long queues at checkout counters.,1,6/9/2025,instagram,3,service,negative,-0.69,delivery,india - bangalore,20.04,startup
+988,freshmart,supermarket,products are available but prices are average.,4,5/1/2024,instagram,1,service,neutral,0.16,service,sri lanka - kandy,26.58,sme
+989,dailyneeds,supermarket,products are available but prices are average.,4,4/13/2025,appstore,1,support,neutral,-0.05,support,sri lanka - colombo,20.94,startup
+990,freshmart,supermarket,store is okay but sometimes crowded.,3,1/20/2025,facebook,3,service,neutral,0.24,service,india - chennai,34.8,startup
+991,nextgen institute,academic,flexible schedules and practical lessons.,4,8/22/2025,appstore,2,service,positive,0.5,support,india - bangalore,29.84,enterprise
+992,futurelearn center,academic,outdated materials and unhelpful staff.,2,8/23/2025,facebook,1,product,negative,-0.68,quality,sri lanka - colombo,31.11,sme
+993,nextgen institute,academic,flexible schedules and practical lessons.,4,10/8/2025,yelp,1,delivery,positive,0.52,delivery,sri lanka - kandy,19.69,enterprise
+994,urban curry,restaurant,authentic flavors and generous portions.,4,6/1/2025,google,3,product,positive,0.75,quality,india - chennai,28.43,startup
+995,quickeats,food delivery,app works fine but nothing impressive.,4,4/26/2025,facebook,1,product,neutral,0.06,delivery,india - chennai,21.3,enterprise
+996,brightpath college,academic,flexible schedules and practical lessons.,4,12/31/2024,appstore,3,support,positive,0.74,quality,india - chennai,20.55,enterprise
+997,skillbridge academy,academic,facilities are average.,3,6/11/2024,facebook,3,delivery,neutral,0.22,experience,sri lanka - colombo,20.55,enterprise
+998,spice garden,restaurant,staff were rude and the place was not clean.,2,11/21/2024,facebook,2,product,negative,-0.58,delivery,india - chennai,36.85,sme
+999,nextgen institute,academic,classes often cancelled without notice.,1,11/30/2024,instagram,1,service,negative,-0.64,support,india - bangalore,15.53,enterprise
+1000,urban threads,clothing,trendy designs and affordable prices.,4,9/25/2025,instagram,1,product,positive,0.85,support,india - chennai,27.72,enterprise
