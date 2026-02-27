@@ -1,15 +1,3 @@
-const CompetitorAnalysis = () => {
-  return (
-    <div style={{ width: "100%", height: "100vh" }}>
-      <iframe
-        src="https://market-research-cvzg3xjygtvzswgxy9v3t2.streamlit.app/"
-        width="100%"
-        height="100%"
-        style={{ border: "none" }}
-        title="Competitor Analysis"
-      />
-    </div>
-  );
-};
-
-export default CompetitorAnalysis;
+[server]
+enableCORS = false
+enableXsrfProtection = false
