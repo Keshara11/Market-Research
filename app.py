@@ -10,6 +10,31 @@ from sklearn.linear_model import LogisticRegression
 st.set_page_config(page_title="Market Research & Competitor Analysis", layout="wide", page_icon="📊")
 
 # -------------------------------
+# Custom CSS for styling
+# -------------------------------
+st.markdown(
+    """
+    <style>
+    /* Background */
+    .reportview-container, .main, header, footer {background-color: #0B1D51;}
+    
+    /* Title and Headers */
+    h1, h2, h3, h4, h5, h6 {color: white;}
+    
+    /* Buttons */
+    div.stButton > button {background-color: #FF2E2E; color: white; border-radius: 5px;}
+    
+    /* Selectbox and other widgets */
+    div.stSelectbox > div > div > div > input {background-color: #0B1D51; color: white;}
+    
+    /* Altair charts tooltip styling */
+    div.vega-tooltip {background-color: black; color: white;}
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
+# -------------------------------
 # Load dataset
 # -------------------------------
 @st.cache_data
@@ -51,7 +76,7 @@ model = train_model(df)
 # -------------------------------
 # App Title
 # -------------------------------
-st.markdown("<h1 style='color:#FF2E2E'>📊 Competitor Analysis Dashboard</h1>", unsafe_allow_html=True)
+st.markdown("<h1>📊 Competitor Analysis Dashboard</h1>", unsafe_allow_html=True)
 
 # -------------------------------
 # Prediction Section
@@ -75,15 +100,15 @@ st.markdown("---")
 st.header("📈 Competitor Insights")
 
 # -------------------------------
-# Set dark theme
+# Set dark theme for Altair
 # -------------------------------
 alt.themes.enable("dark")
 
 # Sentiment color map (red theme)
 sentiment_colors = {
-    "Positive": "#FF4C4C",  # bright red
-    "Neutral": "#FFAAAA",   # light red/pink
-    "Negative": "#660000"   # dark red
+    "Positive": "#FF4C4C",
+    "Neutral": "#FFAAAA",
+    "Negative": "#660000"
 }
 
 # -------------------------------
@@ -135,7 +160,7 @@ region_chart = alt.Chart(region_df).mark_bar().encode(
 st.altair_chart(region_chart, use_container_width=True)
 
 # -------------------------------
-# Ratings vs Sentiment (Scatter for Competitor Insight)
+# Ratings vs Sentiment Scatter
 # -------------------------------
 st.subheader("Ratings vs Sentiment by Competitor Type")
 scatter_chart = alt.Chart(df).mark_circle(size=80, opacity=0.8).encode(
