@@ -15,19 +15,10 @@ st.set_page_config(page_title="Market Research & Competitor Analysis", layout="w
 st.markdown(
     """
     <style>
-    /* Background */
     .reportview-container, .main, header, footer {background-color: #0B1D51;}
-    
-    /* Title and Headers */
     h1, h2, h3, h4, h5, h6 {color: white;}
-    
-    /* Buttons */
     div.stButton > button {background-color: #FF2E2E; color: white; border-radius: 5px;}
-    
-    /* Selectbox and other widgets */
     div.stSelectbox > div > div > div > input {background-color: #0B1D51; color: white;}
-    
-    /* Altair charts tooltip styling */
     div.vega-tooltip {background-color: black; color: white;}
     </style>
     """,
@@ -48,7 +39,7 @@ def load_data():
 df = load_data()
 
 # -------------------------------
-# Train model (cached)
+# Train model
 # -------------------------------
 @st.cache_resource
 def train_model(df):
@@ -60,6 +51,7 @@ def train_model(df):
     )
 
     categorical_features = ["industry", "region"]
+
     preprocessor = ColumnTransformer(
         transformers=[("cat", OneHotEncoder(handle_unknown="ignore"), categorical_features)]
     )
@@ -68,7 +60,9 @@ def train_model(df):
         ("preprocessor", preprocessor),
         ("classifier", LogisticRegression(max_iter=1000))
     ])
+
     model.fit(X_train, y_train)
+
     return model
 
 model = train_model(df)
@@ -82,16 +76,22 @@ st.markdown("<h1> Competitor Analysis Dashboard</h1>", unsafe_allow_html=True)
 # Prediction Section
 # -------------------------------
 st.header(" Predict Sentiment")
+
 industry = st.selectbox("Select Industry", sorted(df["industry"].unique()))
 region = st.selectbox("Select Region", sorted(df["region"].unique()))
 
 if st.button("Predict Sentiment"):
+
     input_data = pd.DataFrame({"industry": [industry], "region": [region]})
+
     prediction = model.predict(input_data)[0]
+
     probability = model.predict_proba(input_data)
 
     st.success(f"Predicted Sentiment: {prediction}")
+
     st.write("### Prediction Probabilities")
+
     st.write(dict(zip(model.classes_, probability[0])))
 
 # -------------------------------
@@ -100,12 +100,8 @@ if st.button("Predict Sentiment"):
 st.markdown("---")
 st.header(" Competitor Insights")
 
-# -------------------------------
-# Set dark theme for Altair
-# -------------------------------
 alt.themes.enable("dark")
 
-# Sentiment color map
 sentiment_colors = {
     "Positive": "#FF4C4C",
     "Neutral": "#FFAAAA",
@@ -113,7 +109,7 @@ sentiment_colors = {
 }
 
 # -------------------------------
-# Beautiful Pie Chart
+# Pie Chart
 # -------------------------------
 st.subheader("Overall Sentiment Distribution")
 
@@ -157,11 +153,36 @@ pie_chart = (pie + text).properties(height=450)
 st.altair_chart(pie_chart, use_container_width=True)
 
 # -------------------------------
+# Top Competitors by Market Share (MOVED HERE)
+# -------------------------------
+st.subheader("Top Competitors by Market Share")
+
+top_competitors = df.groupby("brand")["market_share_est"].mean().reset_index()
+
+top_competitors = top_competitors.sort_values(
+    "market_share_est", ascending=False
+).head(15)
+
+bar_market_chart = alt.Chart(top_competitors).mark_bar(
+    cornerRadiusTopLeft=3,
+    cornerRadiusTopRight=3
+).encode(
+    x=alt.X("brand:N", sort="-y", title="Brand"),
+    y=alt.Y("market_share_est:Q", title="Average Market Share (%)"),
+    color=alt.value("#FF2E2E"),
+    tooltip=["brand", "market_share_est"]
+).properties(height=400)
+
+st.altair_chart(bar_market_chart, use_container_width=True)
+
+# -------------------------------
 # Sentiment by Industry
 # -------------------------------
 st.subheader("Sentiment Distribution by Industry")
 
-industry_df = df.groupby(["industry", "sentiment_label"]).size().reset_index(name="count")
+industry_df = df.groupby(
+    ["industry", "sentiment_label"]
+).size().reset_index(name="count")
 
 industry_chart = alt.Chart(industry_df).mark_bar().encode(
     x=alt.X("industry:N", sort="-y"),
@@ -184,7 +205,9 @@ st.altair_chart(industry_chart, use_container_width=True)
 # -------------------------------
 st.subheader("Sentiment Distribution by Region")
 
-region_df = df.groupby(["region", "sentiment_label"]).size().reset_index(name="count")
+region_df = df.groupby(
+    ["region", "sentiment_label"]
+).size().reset_index(name="count")
 
 region_chart = alt.Chart(region_df).mark_bar().encode(
     x=alt.X("region:N", sort="-y"),
@@ -207,7 +230,10 @@ st.altair_chart(region_chart, use_container_width=True)
 # -------------------------------
 st.subheader("Ratings vs Sentiment by Competitor Type")
 
-scatter_chart = alt.Chart(df).mark_circle(size=80, opacity=0.8).encode(
+scatter_chart = alt.Chart(df).mark_circle(
+    size=80,
+    opacity=0.8
+).encode(
     x=alt.X("rating:Q", title="Rating"),
     y=alt.Y("sentiment_score:Q", title="Sentiment Score"),
     color=alt.Color(
@@ -230,23 +256,3 @@ scatter_chart = alt.Chart(df).mark_circle(size=80, opacity=0.8).encode(
 ).interactive().properties(height=400)
 
 st.altair_chart(scatter_chart, use_container_width=True)
-
-# -------------------------------
-# Top Competitors by Market Share
-# -------------------------------
-st.subheader("Top Competitors by Market Share")
-
-top_competitors = df.groupby("brand")["market_share_est"].mean().reset_index()
-top_competitors = top_competitors.sort_values("market_share_est", ascending=False).head(15)
-
-bar_market_chart = alt.Chart(top_competitors).mark_bar(
-    cornerRadiusTopLeft=3,
-    cornerRadiusTopRight=3
-).encode(
-    x=alt.X("brand:N", sort="-y", title="Brand"),
-    y=alt.Y("market_share_est:Q", title="Average Market Share (%)"),
-    color=alt.value("#FF2E2E"),
-    tooltip=["brand", "market_share_est"]
-).properties(height=400)
-
-st.altair_chart(bar_market_chart, use_container_width=True)
